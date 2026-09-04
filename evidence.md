@@ -47,7 +47,7 @@ These checks reduce the plausibility of a local VPN/proxy explanation. They do n
 ## E-07 — Public discussion
 
 
-The recorded publication checkpoint preserves the public framing. Engagement levels and third-party replies are not treated as technical proof.
+The recorded publication checkpoint preserves the public framing. At the 2026-09-04 06:04 UTC checkpoint, Reddit showed 687 views and one substantive community reply; X showed 11 views and one external automated Grok routing reply. The community reply's analysis and Grok's routing response are not treated as technical proof, human vendor engagement, or resolution.
 
 ## Central inference boundary
 

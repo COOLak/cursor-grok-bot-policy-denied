@@ -33,6 +33,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 06:11 | Material snapshot `937d14a` was sent individually to all 31 current press recipients. | Private Gmail sent records; 31 distinct marker-verified replies and no immediate delivery failure found. |
 | 2026-09-04 12:39 | A fourth individualized press batch was sent to seven newly verified recipients at six additional outlets, bringing the campaign to 38 recipients at 22 outlets. | Private Gmail sent records; seven marker-verified messages and no immediate delivery failure found. |
 | 2026-09-04 12:39 | Public-thread check recorded 1.2K Reddit views with the same substantive community reply, and 12 X views with the same external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
+| 2026-09-04 12:50 | Material snapshot `6b871ad` was sent individually to all 38 current press recipients. | Private Gmail sent records; 38 distinct marker-verified replies and no immediate delivery failure found. |
 
 ## Material correction history
 

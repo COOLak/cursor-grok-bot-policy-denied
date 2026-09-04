@@ -99,14 +99,14 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Public posts are live. At the latest public check, Reddit showed 1.2K views and one substantive community reply; X showed 12 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - A staged press campaign has reached 38 distinct verified recipients without an immediate delivery failure.
 - The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 38 current press recipients.
-- The latest fully distributed material snapshot remains commit `937d14a`, sent individually to the first 31 recipients; the present fourth-batch and audience-milestone update is being distributed to all 38 recipients.
+- The current material snapshot, commit `6b871ad`, was sent individually to all 38 current press recipients; no immediate delivery failure was found.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
 
 The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
 
-As of 2026-09-04 12:39 UTC, **38 distinct verified recipients at 22 outlets** had received individualized tips. The first 31 recipients had received material snapshot `937d14a`; the fourth-batch and audience-milestone snapshot is being distributed to all 38. The 21 recipients in the first two batches had also received the earlier full parity-package update:
+As of 2026-09-04 12:50 UTC, **38 distinct verified recipients at 22 outlets** had received individualized tips and the current material snapshot. The 21 recipients in the first two batches had also received the earlier full parity-package update:
 
 - 404 Media — 4 recipients
 - ABC News — 1

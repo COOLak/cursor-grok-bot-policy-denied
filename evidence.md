@@ -57,7 +57,7 @@ These URLs prove publication and preserve the public framing. At the 2026-09-04 
 
 **Public artifacts:** [`press-outreach.html`](press-outreach.html) and [`press-outreach-summary.csv`](press-outreach-summary.csv)
 
-The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 22 outlets and reports only aggregate counts. A Gmail sent-mail audit found 38 distinct successful recipients, including seven marker-verified messages in batch four. The first 31 recipients also have individually marker-verified replies distributing material snapshot `937d14a`; the fourth-batch and audience-milestone snapshot is being distributed to all 38. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
+The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 22 outlets and reports only aggregate counts. A Gmail sent-mail audit found 38 distinct successful recipients, including seven marker-verified messages in batch four, plus 38 individually marker-verified replies distributing material snapshot `6b871ad`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
 
 ## Central inference boundary
 

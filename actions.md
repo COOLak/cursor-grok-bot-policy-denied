@@ -42,6 +42,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent the expanded material snapshot from commit `937d14a` individually to all 31 current press recipients after batch three and public-response metrics were added.
 - Sent a fourth controlled batch to seven newly verified recipients at ABC News, CNBC, Mother Jones, Reuters, Slate, and The Atlantic after deduplicating every address against the private ledger and all Gmail Sent history.
 - Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
+- Sent material snapshot `6b871ad` individually to all 38 current press recipients after the fourth batch and public-attention milestone were recorded.
 
 ## Press escalation
 
@@ -55,6 +56,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified 10 batch-three messages to 10 distinct recipients and found no immediate delivery failure.
 - Verified 31 snapshot-update replies to 31 distinct recipients and found no immediate delivery failure.
 - Verified seven batch-four messages to seven distinct recipients and found no immediate delivery failure.
+- Verified 38 snapshot-update replies to 38 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

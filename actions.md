@@ -43,11 +43,13 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent a fourth controlled batch to seven newly verified recipients at ABC News, CNBC, Mother Jones, Reuters, Slate, and The Atlantic after deduplicating every address against the private ledger and all Gmail Sent history.
 - Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
 - Sent material snapshot `6b871ad` individually to all 38 current press recipients after the fourth batch and public-attention milestone were recorded.
+- Sent a fifth controlled batch to 10 newly verified recipients at BleepingComputer, Business Insider, Computerworld, and CyberScoop after deduplicating every address against the private ledger and all Gmail Sent history.
+- Recorded the public-attention checkpoint at 1.6K Reddit views and 13 X views; the same replies remain community analysis and automated routing, not human vendor engagement.
 
 ## Press escalation
 
 - Built a private deduplicated outreach ledger containing source-verified work contacts.
-- Sent 38 individualized tips across 22 technology-news outlets in four controlled batches.
+- Sent 48 individualized tips across 26 technology-news outlets in five controlled batches.
 - Sent batch three to 10 newly verified recipients at WIRED, Rest of World, Axios, Fast Company, and Tech Policy Press; every address was deduplicated against prior outreach and each message carried a unique batch marker.
 - Used only published newsroom or staff work contacts.
 - Included the xAI announcement, error mechanics, corrected account requirement, support-routing loop, and public evidence links.
@@ -57,6 +59,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified 31 snapshot-update replies to 31 distinct recipients and found no immediate delivery failure.
 - Verified seven batch-four messages to seven distinct recipients and found no immediate delivery failure.
 - Verified 38 snapshot-update replies to 38 distinct recipients and found no immediate delivery failure.
+- Verified 10 batch-five messages to 10 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

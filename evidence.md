@@ -51,13 +51,13 @@ These checks reduce the plausibility of a local VPN/proxy explanation. They do n
 - X correction: https://x.com/Coolak777/status/2095666806040236440
 - X amplifier: https://x.com/Coolak777/status/2095671328988856616
 
-These URLs prove publication and preserve the public framing. At the 2026-09-04 12:39 UTC checkpoint, Reddit showed 1.2K views and one substantive community reply; X showed 12 views and one external automated Grok routing reply. The community reply's analysis and Grok's routing response are not treated as technical proof, human vendor engagement, or resolution.
+These URLs prove publication and preserve the public framing. At the 2026-09-04 17:59 UTC checkpoint, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. The community reply's analysis and Grok's routing response are not treated as technical proof, human vendor engagement, or resolution.
 
 ## E-08 — Press outreach records
 
 **Public artifacts:** [`press-outreach.html`](press-outreach.html) and [`press-outreach-summary.csv`](press-outreach-summary.csv)
 
-The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 22 outlets and reports only aggregate counts. A Gmail sent-mail audit found 38 distinct successful recipients, including seven marker-verified messages in batch four, plus 38 individually marker-verified replies distributing material snapshot `6b871ad`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
+The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 26 outlets and reports only aggregate counts. A Gmail sent-mail audit found 48 distinct successful recipients, including 10 marker-verified messages in batch five, while the first 38 recipients also received individually marker-verified replies distributing material snapshot `6b871ad`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
 
 ## Central inference boundary
 

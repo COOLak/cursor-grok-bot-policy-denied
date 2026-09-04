@@ -90,30 +90,34 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 12:39 UTC.**
+**Unresolved as of 2026-09-04 17:59 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
 - Cursor has not supplied a supported matching-`.ru` signup/linking path.
 - No human technical owner or firm remediation ETA has been provided.
-- Public posts are live. At the latest public check, Reddit showed 1.2K views and one substantive community reply; X showed 12 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
-- A staged press campaign has reached 38 distinct verified recipients without an immediate delivery failure.
-- The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 38 current press recipients.
-- The current material snapshot, commit `6b871ad`, was sent individually to all 38 current press recipients; no immediate delivery failure was found.
+- Public posts are live. At the latest public check, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- A staged press campaign has reached 48 distinct verified recipients without an immediate delivery failure.
+- The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 48 current press recipients.
+- The previous material snapshot, commit `6b871ad`, was sent individually to the first 38 press recipients; the fifth batch received the live evidence links with its individualized tips.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
 
 The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
 
-As of 2026-09-04 12:50 UTC, **38 distinct verified recipients at 22 outlets** had received individualized tips and the current material snapshot. The 21 recipients in the first two batches had also received the earlier full parity-package update:
+As of 2026-09-04 17:59 UTC, **48 distinct verified recipients at 26 outlets** had received individualized tips. The first 38 recipients had also received material snapshot `6b871ad`, and the 21 recipients in the first two batches had received the earlier full parity-package update:
 
 - 404 Media — 4 recipients
 - ABC News — 1
 - Ars Technica — 1
 - Axios — 1
 - Bloomberg — 1
+- BleepingComputer — 4
+- Business Insider — 1
 - CNBC — 2
+- Computerworld — 4
+- CyberScoop — 1
 - Engadget — 3
 - Fast Company — 1
 - Forbes — 2

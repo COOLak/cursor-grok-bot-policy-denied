@@ -85,7 +85,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:04 UTC.**
+**Unresolved as of 2026-09-04 01:10 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -93,6 +93,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - No human technical owner or firm remediation ETA has been provided.
 - Public posts are live.
 - A staged press campaign has reached 21 distinct verified recipients without an immediate delivery failure.
+- The live GitHub mirror and reporter brief were individually sent to all 21 current press recipients.
 - Monitoring and evidence preservation continue every six hours.
 
 ## What would count as resolution
@@ -128,4 +129,3 @@ The public record preserves dates, roles, technical outcomes, corrections, vendo
 - Support correspondence is paraphrased and stripped of identifiers.
 - Material corrections are preserved rather than silently rewritten.
 - New evidence, vendor replies, public actions, and resolution tests will be appended with UTC timestamps.
-

@@ -3,7 +3,7 @@
   "incident": "SuperGrok Heavy to Cursor Grok Bot linking policy_denied",
   "status": "unresolved",
   "opened_at_utc": "2026-08-16T17:42:16Z",
-  "last_updated_at_utc": "2026-09-04T01:04:33Z",
+  "last_updated_at_utc": "2026-09-04T01:10:55Z",
   "error_code": "policy_denied",
   "visible_error": "Access blocked, please contact support.",
   "paid_plan": "SuperGrok Heavy",
@@ -16,8 +16,9 @@
   "inference_confirmed_by_vendor": false,
   "live_access_verified": false,
   "public_press_recipients": 21,
+  "latest_material_update_notified_recipients": 21,
+  "latest_material_update_notified_at_utc": "2026-09-04T01:10:55Z",
   "press_target": 100,
   "monitor_interval_hours": 6,
   "resolution_requires_live_verification": true
 }
-

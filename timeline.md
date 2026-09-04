@@ -24,9 +24,9 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 | Public Reddit and X evidence threads were published. | Public URLs in `README.md`. |
 | 2026-09-04 00:03–00:29 | An initial press batch was sent to 11 verified technology-news recipients. | Private Gmail sent records; public-safe outlet totals in `press-outreach-summary.csv`. |
 | 2026-09-04 00:55 | A second individualized press batch was sent to 10 verified reporters and editors. | Private Gmail sent records; public-safe outlet totals in `press-outreach-summary.csv`. |
-| 2026-09-04 01:04 | Public GitHub evidence mirror prepared from the same privacy-sanitized incident-hub model used for the customer's Anthropic billing record. | This repository. |
+| 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
+| 2026-09-04 01:10 | The evidence-hub URL, repository, reporter brief, and timeline were individually sent to all 21 current press recipients. | Private Gmail sent records; no recipient addresses are public. |
 
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.
-

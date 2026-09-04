@@ -36,6 +36,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published a separate X clarification correcting the target-account misunderstanding.
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
+- Sent the live evidence hub, source repository, reporter brief, and timeline individually to every one of the 21 current press recipients.
 
 ## Press escalation
 
@@ -52,4 +53,3 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - A six-hour watcher monitors the authoritative Cursor support thread, the xAI transfer, journalist replies, Reddit, X, and this public mirror.
 - Routine no-change checks remain quiet.
 - A vendor claim that the issue is fixed must be tested in the live signup/sign-in/linking flow before the incident can be marked resolved.
-

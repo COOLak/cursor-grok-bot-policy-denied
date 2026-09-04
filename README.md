@@ -5,9 +5,13 @@ This repository is a privacy-sanitized public evidence hub for an unresolved pai
 ## Start here
 
 - **[Open the public incident page](https://coolak.github.io/cursor-grok-bot-policy-denied/)**
-- **[Inspect the dated timeline](timeline.md)**
-- **[Review every escalation action](actions.md)**
-- **[Read the evidence and limitation register](evidence.md)**
+- **[Read the public incident brief](https://coolak.github.io/cursor-grok-bot-policy-denied/incident-brief.html)**
+- **[Give the technical owner this action packet](https://coolak.github.io/cursor-grok-bot-policy-denied/owner-action.html)**
+- **[Inspect the system reconciliation matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/reconciliation-matrix.html)**
+- **[Audit the evidence chain and proof boundaries](https://coolak.github.io/cursor-grok-bot-policy-denied/evidence-chain.html)**
+- **[Inspect the public-source matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/public-source-matrix.html)**
+- **[Inspect the dated public timeline](https://coolak.github.io/cursor-grok-bot-policy-denied/timeline.html)**
+- **[Use the affected-user evidence checklist](https://coolak.github.io/cursor-grok-bot-policy-denied/affected-user-checklist.html)**
 - **[Inspect the machine-readable state](incident-state.json)**
 
 ## Short summary
@@ -80,7 +84,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:10 UTC.**
+**Unresolved as of 2026-09-04 01:35 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -88,6 +92,20 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - No human technical owner or firm remediation ETA has been provided.
 - Public posts are live.
 - Monitoring and evidence preservation continue every six hours.
+
+## Incident-package parity
+
+This repository now follows the same layered public-incident approach as the customer's Anthropic billing mirror:
+
+- a concise public incident brief;
+- a concrete owner-action packet;
+- a symptom-to-system reconciliation matrix;
+- an evidence chain with explicit proof limitations;
+- a source matrix that separates first-party, private authenticated, and public-discussion evidence;
+- a public timeline;
+- an affected-user checklist for comparable reports;
+- machine-readable state and evidence custody records; and
+- an indexable GitHub Pages site with canonical, Open Graph, Twitter-card, and structured metadata.
 
 ## What would count as resolution
 

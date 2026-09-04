@@ -52,4 +52,3 @@ The recorded publication checkpoint preserves the public framing. Engagement lev
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.
-

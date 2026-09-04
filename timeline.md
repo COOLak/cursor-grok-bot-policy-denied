@@ -23,6 +23,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-03 23:41 | Customer requested confirmation of a human owner, the actual domain policy, a supported remedy, and an ETA; generic routing replies were expressly rejected as resolution. | Private support record retained. |
 | 2026-09-04 | Public Reddit and X evidence threads were published. | Public URLs in `README.md`. |
 | 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
+| 2026-09-04 01:35 | The public hub was expanded to full structural parity with the customer's Anthropic incident approach, including owner-action, reconciliation, evidence-chain, source-matrix, checklist, and metadata layers. | This repository. No new vendor claim was added. |
 
 ## Material correction history
 

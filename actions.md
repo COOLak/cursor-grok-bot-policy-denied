@@ -45,6 +45,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent material snapshot `6b871ad` individually to all 38 current press recipients after the fourth batch and public-attention milestone were recorded.
 - Sent a fifth controlled batch to 10 newly verified recipients at BleepingComputer, Business Insider, Computerworld, and CyberScoop after deduplicating every address against the private ledger and all Gmail Sent history.
 - Recorded the public-attention checkpoint at 1.6K Reddit views and 13 X views; the same replies remain community analysis and automated routing, not human vendor engagement.
+- Sent material snapshot `13eb557` individually to all 48 current press recipients after the fifth batch and audience checkpoint were published.
 
 ## Press escalation
 
@@ -60,6 +61,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified seven batch-four messages to seven distinct recipients and found no immediate delivery failure.
 - Verified 38 snapshot-update replies to 38 distinct recipients and found no immediate delivery failure.
 - Verified 10 batch-five messages to 10 distinct recipients and found no immediate delivery failure.
+- Verified 48 snapshot-update replies to 48 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

@@ -36,18 +36,20 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published a separate X clarification correcting the target-account misunderstanding.
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
-- Sent the live evidence hub, source repository, reporter brief, and timeline individually to every one of the 21 current press recipients.
+- Sent the live evidence hub, source repository, reporter brief, and timeline individually to every press recipient reached so far.
 - Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
 - Sent the full parity package from material commit `8a549b2` individually to all 21 current press recipients; the update included the reporter brief, owner-action packet, reconciliation matrix, timeline, and privacy-sanitized outreach record.
 
 ## Press escalation
 
 - Built a private deduplicated outreach ledger containing source-verified work contacts.
-- Sent 21 individualized tips across 11 technology-news outlets in two controlled batches.
+- Sent 31 individualized tips across 16 technology-news outlets in three controlled batches.
+- Sent batch three to 10 newly verified recipients at WIRED, Rest of World, Axios, Fast Company, and Tech Policy Press; every address was deduplicated against prior outreach and each message carried a unique batch marker.
 - Used only published newsroom or staff work contacts.
 - Included the xAI announcement, error mechanics, corrected account requirement, support-routing loop, and public evidence links.
 - Checked for immediate delivery failures; none were found at the recorded checkpoint.
 - Verified 21 parity-update messages to 21 distinct recipients and found no immediate delivery failure.
+- Verified 10 batch-three messages to 10 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

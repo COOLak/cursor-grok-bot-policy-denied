@@ -51,13 +51,13 @@ These checks reduce the plausibility of a local VPN/proxy explanation. They do n
 - X correction: https://x.com/Coolak777/status/2095666806040236440
 - X amplifier: https://x.com/Coolak777/status/2095671328988856616
 
-These URLs prove publication and preserve the public framing. Engagement levels and third-party replies are not treated as technical proof.
+These URLs prove publication and preserve the public framing. At the 2026-09-04 06:04 UTC checkpoint, Reddit showed 687 views and one substantive community reply; X showed 11 views and one external automated Grok routing reply. The community reply's analysis and Grok's routing response are not treated as technical proof, human vendor engagement, or resolution.
 
 ## E-08 — Press outreach records
 
 **Public artifacts:** [`press-outreach.html`](press-outreach.html) and [`press-outreach-summary.csv`](press-outreach-summary.csv)
 
-The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 11 outlets and reports only aggregate counts. A Gmail sent-mail audit found 21 distinct successful recipients, 21 individual evidence-hub update replies, and no duplicate address at the recorded checkpoint.
+The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 16 outlets and reports only aggregate counts. A Gmail sent-mail audit found 31 distinct successful recipients, including 10 marker-verified messages in batch three, and no duplicate address or immediate delivery failure at the recorded checkpoint. The 21 recipients in the first two batches also received the prior full parity-package update.
 
 ## Central inference boundary
 

@@ -90,35 +90,40 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:44 UTC.**
+**Unresolved as of 2026-09-04 06:04 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
 - Cursor has not supplied a supported matching-`.ru` signup/linking path.
 - No human technical owner or firm remediation ETA has been provided.
-- Public posts are live.
-- A staged press campaign has reached 21 distinct verified recipients without an immediate delivery failure.
-- The live GitHub mirror and reporter brief were individually sent to all 21 current press recipients.
-- The full parity package published in material commit `8a549b2` was then sent individually to all 21 current press recipients; no immediate delivery failure was found.
+- Public posts are live. At the latest public check, Reddit showed 687 views and one substantive community reply; X showed 11 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- A staged press campaign has reached 31 distinct verified recipients without an immediate delivery failure.
+- The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 31 current press recipients.
+- The full parity package published in material commit `8a549b2` was sent individually to the 21 recipients then in the campaign; the new material update will be distributed to the expanded list.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
 
 The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
 
-As of 2026-09-04 01:44 UTC, **21 distinct verified recipients at 11 outlets** had received individualized tips, the initial public evidence-hub update, and the full parity-package update:
+As of 2026-09-04 06:04 UTC, **31 distinct verified recipients at 16 outlets** had received individualized tips. The 21 recipients in the first two batches had also received the earlier evidence-hub and full parity-package updates:
 
 - 404 Media — 4 recipients
 - Ars Technica — 1
+- Axios — 1
 - Bloomberg — 1
 - Engadget — 3
+- Fast Company — 1
 - Forbes — 2
 - Gizmodo — 1
+- Rest of World — 1
 - TechCrunch — 1
+- Tech Policy Press — 1
 - TechRadar — 1
 - The Register — 5
 - Tom's Hardware — 1
 - VentureBeat — 1
+- WIRED — 6
 
 No immediate delivery failure was found at the recorded checkpoint. Exact recipient names and addresses remain private; the public-safe outlet ledger is [`press-outreach-summary.csv`](press-outreach-summary.csv).
 

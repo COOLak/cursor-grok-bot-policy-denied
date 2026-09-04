@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "incident": "SuperGrok Heavy to Cursor Grok Bot linking policy_denied",
+  "status": "unresolved",
+  "opened_at_utc": "2026-08-16T17:42:16Z",
+  "last_updated_at_utc": "2026-09-04T01:04:33Z",
+  "error_code": "policy_denied",
+  "visible_error": "Access blocked, please contact support.",
+  "paid_plan": "SuperGrok Heavy",
+  "identity_provider": "X / xAI",
+  "identity_email_domain": ".ru",
+  "matching_new_cursor_account_acceptable": true,
+  "existing_non_ru_cursor_account_required": false,
+  "permanent_link_warning": true,
+  "inferred_trigger": ".ru email domain",
+  "inference_confirmed_by_vendor": false,
+  "live_access_verified": false,
+  "public_press_recipients": 21,
+  "press_target": 100,
+  "monitor_interval_hours": 6,
+  "resolution_requires_live_verification": true
+}
+

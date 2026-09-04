@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coolak.github.io/cursor-grok-bot-policy-denied/sitemap.xml
+

@@ -1,0 +1,55 @@
+# Evidence and limitations register
+
+## E-01 — xAI plan announcement
+
+**Public source:** https://x.ai/news/grok-bot-more-plans
+
+xAI's August 26, 2026 announcement says Grok Bot is included with SuperGrok Heavy. The announcement establishes the general advertised plan benefit; it does not disclose a `.ru` email-domain exclusion or prove this customer's account-level eligibility.
+
+## E-02 — Public-safe access-blocked screenshot
+
+**Public artifact:** [`assets/access-blocked.png`](assets/access-blocked.png)
+
+The screenshot shows the Grok Bot sign-in page displaying “Access blocked, please contact support” immediately above the **Get access with SuperGrok Heavy** path. It contains no complete customer address, ticket identifier, or authorization-session value.
+
+The screenshot proves the visible failure state. By itself, it does not prove subscription ownership, payment status, the server-side policy reason, or the identity-provider state.
+
+## E-03 — X authorization screenshot
+
+**Custody:** retained privately; not uploaded.
+
+The screenshot shows the xAI/X consent page authorizing Cursor and visibly displays the X-linked account address. It supports the sequence in which X authorization is reached before Cursor's callback rejects the flow.
+
+It is withheld because redacting only the address while preserving every other pixel would create an additional derivative artifact; the original digest is preserved in `evidence-manifest.json`.
+
+## E-04 — Cursor support correspondence
+
+**Custody:** authenticated private Gmail thread retained by the customer.
+
+The correspondence establishes the requests for diagnostics, Cursor's settings refresh, the same-email requirement, permanent-link warning, technical-team routing, corrected target-account requirement, and the absence of a working remedy as of the last update.
+
+Public files paraphrase the relevant statements. Raw headers, message IDs, addresses, tracking pixels, and full message bodies are excluded.
+
+## E-05 — xAI and duplicate-routing correspondence
+
+**Custody:** authenticated private Gmail records retained by the customer.
+
+xAI support routed the matter to Cursor on the ground that Cursor supports Grok Bot. Cursor's automated support closed the transferred request as a duplicate of the original case. These records support the documented ownership loop; they do not establish what either company did internally.
+
+## E-06 — Network and retry checks
+
+**Custody:** private support messages and contemporaneous local checks.
+
+Ordinary Windows proxy settings were disabled and no common VPN process was active when the failure was reproduced. The public record does not disclose an IP address, ISP, or exact location.
+
+These checks reduce the plausibility of a local VPN/proxy explanation. They do not exclude every possible network, geolocation, risk-scoring, or account-policy factor.
+
+## E-07 — Public discussion
+
+
+The recorded publication checkpoint preserves the public framing. Engagement levels and third-party replies are not treated as technical proof.
+
+## Central inference boundary
+
+The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.
+

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-09-04T01:04:33Z",
+  "artifacts": [
+    {
+      "evidence_id": "E-02",
+      "public_path": "assets/access-blocked.png",
+      "sha256": "A3F2D8245FF3B64CD511D18D86D420DFBF0DBD65C9A4470E0A8AE429464129B6",
+      "privacy": "public-safe",
+      "description": "Grok Bot sign-in page showing Access blocked above the SuperGrok Heavy path"
+    },
+    {
+      "evidence_id": "E-03",
+      "public_path": null,
+      "sha256": "AE44E4206BB800B200D047637029A4D5685DE512E884A84C78449A4A899F973C",
+      "privacy": "withheld-private",
+      "description": "Original xAI/X authorization screenshot; withheld because the complete private account address is visible"
+    }
+  ]
+}
+

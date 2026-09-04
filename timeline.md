@@ -30,6 +30,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 01:44 | The full parity package from material commit `8a549b2` was sent individually to all 21 current press recipients. | Private Gmail sent records; 21 distinct recipients verified and no immediate delivery failure found. |
 | 2026-09-04 06:04 | A third individualized press batch was sent to 10 newly verified recipients at five additional outlets, bringing the campaign to 31 recipients at 16 outlets. | Private Gmail sent records; 10 marker-verified messages and no immediate delivery failure found. |
 | 2026-09-04 06:04 | Public-thread check recorded 687 Reddit views with one substantive community reply, and 11 X views with one external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
+| 2026-09-04 06:11 | Material snapshot `937d14a` was sent individually to all 31 current press recipients. | Private Gmail sent records; 31 distinct marker-verified replies and no immediate delivery failure found. |
 
 ## Material correction history
 

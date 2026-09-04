@@ -90,7 +90,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 06:04 UTC.**
+**Unresolved as of 2026-09-04 06:11 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -99,14 +99,14 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Public posts are live. At the latest public check, Reddit showed 687 views and one substantive community reply; X showed 11 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - A staged press campaign has reached 31 distinct verified recipients without an immediate delivery failure.
 - The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 31 current press recipients.
-- The full parity package published in material commit `8a549b2` was sent individually to the 21 recipients then in the campaign; the new material update will be distributed to the expanded list.
+- The current material snapshot, commit `937d14a`, was sent individually to all 31 current press recipients; no immediate delivery failure was found.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
 
 The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
 
-As of 2026-09-04 06:04 UTC, **31 distinct verified recipients at 16 outlets** had received individualized tips. The 21 recipients in the first two batches had also received the earlier evidence-hub and full parity-package updates:
+As of 2026-09-04 06:11 UTC, **31 distinct verified recipients at 16 outlets** had received individualized tips and the current material snapshot. The 21 recipients in the first two batches had also received the earlier full parity-package update:
 
 - 404 Media — 4 recipients
 - Ars Technica — 1

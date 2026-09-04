@@ -39,6 +39,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent the live evidence hub, source repository, reporter brief, and timeline individually to every press recipient reached so far.
 - Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
 - Sent the full parity package from material commit `8a549b2` individually to all 21 current press recipients; the update included the reporter brief, owner-action packet, reconciliation matrix, timeline, and privacy-sanitized outreach record.
+- Sent the expanded material snapshot from commit `937d14a` individually to all 31 current press recipients after batch three and public-response metrics were added.
 
 ## Press escalation
 
@@ -50,6 +51,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Checked for immediate delivery failures; none were found at the recorded checkpoint.
 - Verified 21 parity-update messages to 21 distinct recipients and found no immediate delivery failure.
 - Verified 10 batch-three messages to 10 distinct recipients and found no immediate delivery failure.
+- Verified 31 snapshot-update replies to 31 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

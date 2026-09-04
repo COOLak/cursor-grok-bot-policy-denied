@@ -84,13 +84,13 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 12:39 UTC.**
+**Unresolved as of 2026-09-04 17:59 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
 - Cursor has not supplied a supported matching-`.ru` signup/linking path.
 - No human technical owner or firm remediation ETA has been provided.
-- Public posts are live. At the latest public check, Reddit showed 1.2K views and one substantive community reply; X showed 12 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- Public posts are live. At the latest public check, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Incident-package parity

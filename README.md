@@ -5,10 +5,15 @@ This repository is a privacy-sanitized public evidence hub for an unresolved pai
 ## Start here
 
 - **[Open the public incident page](https://coolak.github.io/cursor-grok-bot-policy-denied/)**
-- **[Read the reporter-ready brief](reporter-brief.md)**
-- **[Inspect the dated timeline](timeline.md)**
-- **[Review every escalation action](actions.md)**
-- **[Read the evidence and limitation register](evidence.md)**
+- **[Read the public incident brief](https://coolak.github.io/cursor-grok-bot-policy-denied/incident-brief.html)**
+- **[Open the reporter-ready brief](https://coolak.github.io/cursor-grok-bot-policy-denied/reporter-brief.html)**
+- **[Give the technical owner this action packet](https://coolak.github.io/cursor-grok-bot-policy-denied/owner-action.html)**
+- **[Inspect the system reconciliation matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/reconciliation-matrix.html)**
+- **[Audit the evidence chain and proof boundaries](https://coolak.github.io/cursor-grok-bot-policy-denied/evidence-chain.html)**
+- **[Inspect the public-source matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/public-source-matrix.html)**
+- **[Inspect the dated public timeline](https://coolak.github.io/cursor-grok-bot-policy-denied/timeline.html)**
+- **[Review the press-outreach record](https://coolak.github.io/cursor-grok-bot-policy-denied/press-outreach.html)**
+- **[Use the affected-user evidence checklist](https://coolak.github.io/cursor-grok-bot-policy-denied/affected-user-checklist.html)**
 - **[Inspect the machine-readable state](incident-state.json)**
 
 ## Short summary
@@ -85,7 +90,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:10 UTC.**
+**Unresolved as of 2026-09-04 01:35 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -95,6 +100,41 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - A staged press campaign has reached 21 distinct verified recipients without an immediate delivery failure.
 - The live GitHub mirror and reporter brief were individually sent to all 21 current press recipients.
 - Monitoring and evidence preservation continue every six hours.
+
+## Media-outreach record
+
+The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
+
+As of 2026-09-04 01:10 UTC, **21 distinct verified recipients at 11 outlets** had received individualized tips and the public evidence-hub update:
+
+- 404 Media — 4 recipients
+- Ars Technica — 1
+- Bloomberg — 1
+- Engadget — 3
+- Forbes — 2
+- Gizmodo — 1
+- TechCrunch — 1
+- TechRadar — 1
+- The Register — 5
+- Tom's Hardware — 1
+- VentureBeat — 1
+
+No immediate delivery failure was found at the recorded checkpoint. Exact recipient names and addresses remain private; the public-safe outlet ledger is [`press-outreach-summary.csv`](press-outreach-summary.csv).
+
+## Incident-package parity
+
+This repository now follows the same layered public-incident approach as the customer's Anthropic billing mirror:
+
+- a concise public incident brief;
+- a dedicated reporter brief;
+- a concrete owner-action packet;
+- a symptom-to-system reconciliation matrix;
+- an evidence chain with explicit proof limitations;
+- a source matrix that separates first-party, private authenticated, and public-discussion evidence;
+- a public timeline and outreach record;
+- an affected-user checklist for comparable reports;
+- machine-readable state and evidence custody records; and
+- an indexable GitHub Pages site with canonical, Open Graph, Twitter-card, and structured metadata.
 
 ## What would count as resolution
 

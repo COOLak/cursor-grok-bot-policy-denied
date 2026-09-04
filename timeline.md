@@ -26,6 +26,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 00:55 | A second individualized press batch was sent to 10 verified reporters and editors. | Private Gmail sent records; public-safe outlet totals in `press-outreach-summary.csv`. |
 | 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
 | 2026-09-04 01:10 | The evidence-hub URL, repository, reporter brief, and timeline were individually sent to all 21 current press recipients. | Private Gmail sent records; no recipient addresses are public. |
+| 2026-09-04 01:35 | The public hub was expanded to full structural parity with the customer's Anthropic incident approach, including owner-action, reconciliation, evidence-chain, source-matrix, outreach, checklist, and metadata layers. | This repository. No new vendor claim was added. |
 
 ## Material correction history
 

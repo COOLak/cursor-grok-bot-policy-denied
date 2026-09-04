@@ -37,6 +37,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
 - Sent the live evidence hub, source repository, reporter brief, and timeline individually to every one of the 21 current press recipients.
+- Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
 
 ## Press escalation
 

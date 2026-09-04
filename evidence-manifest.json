@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-09-04T01:04:33Z",
+  "generated_at_utc": "2026-09-04T01:35:09Z",
   "artifacts": [
     {
       "evidence_id": "E-02",
@@ -15,7 +15,13 @@
       "sha256": "AE44E4206BB800B200D047637029A4D5685DE512E884A84C78449A4A899F973C",
       "privacy": "withheld-private",
       "description": "Original xAI/X authorization screenshot; withheld because the complete private account address is visible"
+    },
+    {
+      "evidence_id": "P-01",
+      "public_path": "assets/share-card.svg",
+      "sha256": "28814D2D80427ABDCFD044B72681DAC83B5F84586D71E5B00675414FA910AE29",
+      "privacy": "public-safe-generated",
+      "description": "Generated social share card summarizing the incident status and aggregate press count"
     }
   ]
 }
-

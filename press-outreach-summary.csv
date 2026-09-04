@@ -1,13 +1,12 @@
-as_of_utc,outlet,distinct_successful_recipients,batches,immediate_delivery_failures
-2026-09-04T01:04:33Z,404 Media,4,"1;2",0
-2026-09-04T01:04:33Z,Ars Technica,1,1,0
-2026-09-04T01:04:33Z,Bloomberg,1,1,0
-2026-09-04T01:04:33Z,Engadget,3,"1;2",0
-2026-09-04T01:04:33Z,Forbes,2,"1;2",0
-2026-09-04T01:04:33Z,Gizmodo,1,1,0
-2026-09-04T01:04:33Z,TechCrunch,1,1,0
-2026-09-04T01:04:33Z,TechRadar,1,1,0
-2026-09-04T01:04:33Z,The Register,5,"1;2",0
-2026-09-04T01:04:33Z,Tom's Hardware,1,1,0
-2026-09-04T01:04:33Z,VentureBeat,1,1,0
-
+as_of_utc,outlet,distinct_successful_recipients,batches,latest_hub_update_recipients,immediate_delivery_failures
+2026-09-04T01:10:55Z,404 Media,4,"1;2",4,0
+2026-09-04T01:10:55Z,Ars Technica,1,1,1,0
+2026-09-04T01:10:55Z,Bloomberg,1,1,1,0
+2026-09-04T01:10:55Z,Engadget,3,"1;2",3,0
+2026-09-04T01:10:55Z,Forbes,2,"1;2",2,0
+2026-09-04T01:10:55Z,Gizmodo,1,1,1,0
+2026-09-04T01:10:55Z,TechCrunch,1,1,1,0
+2026-09-04T01:10:55Z,TechRadar,1,1,1,0
+2026-09-04T01:10:55Z,The Register,5,"1;2",5,0
+2026-09-04T01:10:55Z,Tom's Hardware,1,1,1,0
+2026-09-04T01:10:55Z,VentureBeat,1,1,1,0

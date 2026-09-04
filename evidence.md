@@ -55,11 +55,10 @@ These URLs prove publication and preserve the public framing. Engagement levels 
 
 ## E-08 — Press outreach records
 
-**Public artifact:** [`press-outreach-summary.csv`](press-outreach-summary.csv)
+**Public artifacts:** [`press-outreach.html`](press-outreach.html) and [`press-outreach-summary.csv`](press-outreach-summary.csv)
 
-The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary reports only outlet-level counts. A Gmail sent-mail audit found 21 distinct successful recipients and no duplicate address at the recorded checkpoint.
+The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 11 outlets and reports only aggregate counts. A Gmail sent-mail audit found 21 distinct successful recipients, 21 individual evidence-hub update replies, and no duplicate address at the recorded checkpoint.
 
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.
-

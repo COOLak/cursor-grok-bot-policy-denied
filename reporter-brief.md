@@ -26,6 +26,14 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 - Whether the block is intentional policy, a sanctions-control implementation, risk scoring, or an unintended account-system defect.
 - Whether any published eligibility rule covers the observed behavior.
 
+## Why this is newsworthy
+
+- A premium subscription publicly advertises a partner benefit that cannot be activated.
+- The identity-provider flow succeeds far enough for the partner to evaluate and deny the request.
+- The same-email and permanent-link constraints make unsupported workarounds risky.
+- Cross-company routing has not produced one accountable technical owner.
+- The apparent domain-sensitive behavior is not explained in the public plan material.
+
 ## Questions for Cursor and xAI
 
 1. What exact backend rule produced `policy_denied`?
@@ -46,3 +54,6 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 
 Private subscription proof, the original authorization screenshot, and sanitized support excerpts can be supplied directly to a journalist when genuinely needed.
 
+## Public outreach checkpoint
+
+As of 2026-09-04 01:10 UTC, individualized privacy-sanitized tips and the live evidence-hub update had reached **21 distinct verified recipients at 11 outlets**. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, and private correspondence are withheld.

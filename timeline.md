@@ -22,9 +22,8 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-03 23:38 | Customer formally corrected the account requirement: the existing non-`.ru` Cursor account is not required; a new personal Cursor account using the matching `.ru` address is acceptable. | Private support record retained. |
 | 2026-09-03 23:41 | Customer requested confirmation of a human owner, the actual domain policy, a supported remedy, and an ETA; generic routing replies were expressly rejected as resolution. | Private support record retained. |
 | 2026-09-04 | Public Reddit and X evidence threads were published. | Public URLs in `README.md`. |
-| 2026-09-04 01:04 | Public GitHub evidence mirror prepared from the same privacy-sanitized incident-hub model used for the customer's Anthropic billing record. | This repository. |
+| 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
 
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.
-

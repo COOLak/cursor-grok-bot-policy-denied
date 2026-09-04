@@ -80,7 +80,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:04 UTC.**
+**Unresolved as of 2026-09-04 01:10 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -121,4 +121,3 @@ The public record preserves dates, roles, technical outcomes, corrections, vendo
 - Support correspondence is paraphrased and stripped of identifiers.
 - Material corrections are preserved rather than silently rewritten.
 - New evidence, vendor replies, public actions, and resolution tests will be appended with UTC timestamps.
-

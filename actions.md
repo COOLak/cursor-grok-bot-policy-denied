@@ -42,4 +42,3 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - A six-hour watcher monitors the authoritative Cursor support thread, the xAI transfer, Reddit, X, and this public mirror.
 - Routine no-change checks remain quiet.
 - A vendor claim that the issue is fixed must be tested in the live signup/sign-in/linking flow before the incident can be marked resolved.
-

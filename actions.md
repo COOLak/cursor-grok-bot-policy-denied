@@ -37,6 +37,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
 - Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, affected-user checklist, machine-readable records, and social/indexing metadata.
+- Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
 
 ## Monitoring
 

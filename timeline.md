@@ -25,6 +25,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
 | 2026-09-04 01:35 | The public hub was expanded to full structural parity with the customer's Anthropic incident approach, including owner-action, reconciliation, evidence-chain, source-matrix, checklist, and metadata layers. | This repository. No new vendor claim was added. |
 | 2026-09-04 06:04 | Public-thread check recorded 687 Reddit views with one substantive community reply, and 11 X views with one external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
+| 2026-09-04 12:39 | Public-thread check recorded 1.2K Reddit views with the same substantive community reply, and 12 X views with the same external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
 
 ## Material correction history
 

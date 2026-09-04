@@ -38,6 +38,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Created this GitHub evidence hub and GitHub Pages mirror.
 - Sent the live evidence hub, source repository, reporter brief, and timeline individually to every one of the 21 current press recipients.
 - Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
+- Sent the full parity package from material commit `8a549b2` individually to all 21 current press recipients; the update included the reporter brief, owner-action packet, reconciliation matrix, timeline, and privacy-sanitized outreach record.
 
 ## Press escalation
 
@@ -46,6 +47,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Used only published newsroom or staff work contacts.
 - Included the xAI announcement, error mechanics, corrected account requirement, support-routing loop, and public evidence links.
 - Checked for immediate delivery failures; none were found at the recorded checkpoint.
+- Verified 21 parity-update messages to 21 distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

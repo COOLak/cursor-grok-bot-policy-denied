@@ -90,7 +90,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 01:35 UTC.**
+**Unresolved as of 2026-09-04 01:44 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -99,13 +99,14 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Public posts are live.
 - A staged press campaign has reached 21 distinct verified recipients without an immediate delivery failure.
 - The live GitHub mirror and reporter brief were individually sent to all 21 current press recipients.
+- The full parity package published in material commit `8a549b2` was then sent individually to all 21 current press recipients; no immediate delivery failure was found.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
 
 The Anthropic incident mirror publicly named the outlets that received privacy-sanitized tips but did not publish individual journalist identities or a numeric recipient total. This mirror uses the same privacy boundary while making the aggregate record more explicit.
 
-As of 2026-09-04 01:10 UTC, **21 distinct verified recipients at 11 outlets** had received individualized tips and the public evidence-hub update:
+As of 2026-09-04 01:44 UTC, **21 distinct verified recipients at 11 outlets** had received individualized tips, the initial public evidence-hub update, and the full parity-package update:
 
 - 404 Media — 4 recipients
 - Ars Technica — 1

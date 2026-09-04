@@ -40,11 +40,13 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
 - Sent the full parity package from material commit `8a549b2` individually to all 21 current press recipients; the update included the reporter brief, owner-action packet, reconciliation matrix, timeline, and privacy-sanitized outreach record.
 - Sent the expanded material snapshot from commit `937d14a` individually to all 31 current press recipients after batch three and public-response metrics were added.
+- Sent a fourth controlled batch to seven newly verified recipients at ABC News, CNBC, Mother Jones, Reuters, Slate, and The Atlantic after deduplicating every address against the private ledger and all Gmail Sent history.
+- Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
 
 ## Press escalation
 
 - Built a private deduplicated outreach ledger containing source-verified work contacts.
-- Sent 31 individualized tips across 16 technology-news outlets in three controlled batches.
+- Sent 38 individualized tips across 22 technology-news outlets in four controlled batches.
 - Sent batch three to 10 newly verified recipients at WIRED, Rest of World, Axios, Fast Company, and Tech Policy Press; every address was deduplicated against prior outreach and each message carried a unique batch marker.
 - Used only published newsroom or staff work contacts.
 - Included the xAI announcement, error mechanics, corrected account requirement, support-routing loop, and public evidence links.
@@ -52,6 +54,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified 21 parity-update messages to 21 distinct recipients and found no immediate delivery failure.
 - Verified 10 batch-three messages to 10 distinct recipients and found no immediate delivery failure.
 - Verified 31 snapshot-update replies to 31 distinct recipients and found no immediate delivery failure.
+- Verified seven batch-four messages to seven distinct recipients and found no immediate delivery failure.
 - Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
 - Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
 

@@ -49,6 +49,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent material snapshot `13eb557` individually to all 48 current press recipients after the fifth batch and audience checkpoint were published.
 - Audited the Anthropic billing mirror at commit `58006ec`, corrected the false claim that it published recipient outlets, and documented that it contained neither a journalist roster nor a numeric press-recipient total.
 - Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
+- Sent material snapshot `630094e` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
 
 ## Press escalation
 

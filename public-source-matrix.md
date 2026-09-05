@@ -3,6 +3,8 @@
 | Source | Class | What it establishes | What it does not establish |
 |---|---|---|---|
 | [xAI Grok Bot plan announcement](https://x.ai/news/grok-bot-more-plans) | First-party public | SuperGrok Heavy is publicly listed among plans that include Grok Bot. | This customer's entitlement state or an email-domain restriction. |
+| [Cursor SuperGrok linking guide](https://cursor.com/help/grok-bot/supergrok) | First-party public | Individual SuperGrok Heavy qualifies; linking grants usage to one Cursor account, can work without a paid Cursor plan, is permanent, and directs unresolved access/email cases to support. | That this account was accepted, that matching emails or `.ru` addresses are supported, or the cause of this denial. |
+| [Neutral archive-preservation record](archive-preservation.md) | Time-stamped third-party preservation | Wayback captures preserve Cursor's linking guide and xAI's Grok Bot FAQ as displayed on 2026-09-05 UTC. | Private entitlement, complete dynamic-page behavior, or successful linking. |
 | [`assets/access-blocked.png`](assets/access-blocked.png) | Customer public-safe primary artifact | Grok Bot visibly showed “Access blocked, please contact support” beside the SuperGrok Heavy path. | Backend cause, subscription ownership, or link state. |
 | Private X/xAI authorization screenshot | Customer private primary artifact | Cursor's consent page was reached through the paid X/xAI identity. | Successful callback or entitlement activation. |
 | Private Cursor support thread | Authenticated private correspondence | Diagnostics requested/supplied, settings-refresh claim, same-email requirement, permanent-link warning, and technical-team routing. | Internal investigation state or root cause. |

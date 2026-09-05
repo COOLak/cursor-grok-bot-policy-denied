@@ -8,6 +8,7 @@ The observed failure occurs **after** the customer starts from Cursor's Grok Bot
 
 | Step | Observed state | What it establishes | What it does not establish |
 | --- | --- | --- | --- |
+| 0. Published eligibility path | Cursor's public linking guide says individual SuperGrok Heavy qualifies and can grant usage to a Cursor account without a paid Cursor plan | The requested link class is publicly documented | Account-specific acceptance, a same-email rule, or `.ru` support |
 | 1. Grok Bot sign-in | “Get access with SuperGrok Heavy” is visible | Cursor exposes the paid-plan linking route | Eligibility for this account |
 | 2. X/xAI authorization | Cursor consent request appears for the already signed-in X identity | Identity-provider login and consent routing are reachable | Cursor acceptance of the identity |
 | 3. Callback | Cursor receives a callback containing `policy_denied` | The denial is returned at the vendor integration boundary | The undisclosed backend rule that caused it |
@@ -17,9 +18,8 @@ The observed failure occurs **after** the customer starts from Cursor's Grok Bot
 
 ## Central boundary
 
-The `.ru` email-domain trigger is a customer inference based on the repeated failure and support discussion. Cursor has not confirmed the precise backend policy. OAuth state, authorization-session values, complete account addresses, cookies, tokens, IP data, and unredacted screenshots are withheld.
+The `.ru` email-domain trigger is a customer inference based on the repeated failure and support discussion. Cursor has not confirmed the precise backend policy. Its public linking guide does not publish the privately stated same-email requirement or a `.ru`-domain exclusion. That absence does not prove no internal restriction exists. OAuth state, authorization-session values, complete account addresses, cookies, tokens, IP data, and unredacted screenshots are withheld.
 
 ## Required vendor record
 
 Cursor and xAI can resolve the remaining uncertainty by naming the technical owner and disclosing the evaluated account class, domain/region rule, entitlement result, prior-link state, and safe supported retry path. A generic support transfer does not answer those questions.
-

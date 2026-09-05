@@ -10,11 +10,12 @@
 6. **Visible failure** — Grok Bot displays **“Access blocked, please contact support.”**
 7. **Requested diagnostics** — screenshots, plan context, identity explanation, proxy/VPN checks, and retries are supplied.
 8. **Unsuccessful remediation** — a Cursor-side settings refresh does not change the result.
-9. **Account-model constraint** — Cursor states that emails must match and successful links are permanent.
-10. **Corrected target requirement** — the customer confirms that a new matching-`.ru` personal Cursor account is acceptable.
-11. **Ownership loop** — xAI routes the issue to Cursor; Cursor automation closes the transferred case as a duplicate.
-12. **Expired response window** — one non-duplicated follow-up demands a named owner, exact evaluated rule, supported matching-`.ru` path, ETA, or billing remedy.
-13. **Unresolved state** — no backend reason, supported path, accountable human owner, ETA, or billing remedy is supplied.
+9. **Account-model constraint** — Cursor support states that emails must match and successful links are permanent.
+10. **Published linking terms** — Cursor's public guide confirms individual Heavy eligibility, a one-Cursor-account usage grant, no paid Cursor-plan prerequisite, permanence, and support routing, but publishes no same-email or `.ru`-domain restriction.
+11. **Corrected target requirement** — the customer confirms that a new matching-`.ru` personal Cursor account is acceptable.
+12. **Ownership loop** — xAI routes the issue to Cursor; Cursor automation closes the transferred case as a duplicate.
+13. **Expired response window** — one non-duplicated follow-up demands a named owner, exact evaluated rule, supported matching-`.ru` path, ETA, or billing remedy.
+14. **Unresolved state** — no backend reason, supported path, accountable human owner, ETA, or billing remedy is supplied.
 
 ## What the public screenshot establishes
 

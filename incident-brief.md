@@ -7,9 +7,10 @@ A paying SuperGrok Heavy subscriber reaches and approves Cursor's authorization 
 ## Why it matters
 
 - xAI publicly advertises Grok Bot as included with SuperGrok Heavy.
+- Cursor's public linking guide says individual SuperGrok Heavy qualifies, the usage grant can be linked without a paid Cursor plan, and the link is permanent.
 - Identity-provider consent succeeds before the partner callback rejects access.
 - A permanent one-to-one link makes blind retries risky.
-- No published rule located in the public plan announcement explains the observed domain-sensitive outcome.
+- Neither the public plan announcement nor Cursor's linking guide publishes a same-email requirement or `.ru`-domain exclusion that explains the observed outcome.
 - xAI routes support to Cursor; Cursor's transferred request was automatically closed as a duplicate of the original unresolved case.
 
 ## Routes already advanced
@@ -42,6 +43,8 @@ This is an unresolved paid-entitlement and platform-governance incident. The req
 - Authentication-path audit: https://coolak.github.io/cursor-grok-bot-policy-denied/authentication-path-audit.html
 - Support-routing cluster: https://coolak.github.io/cursor-grok-bot-policy-denied/support-routing-cluster.html
 - Anthropic-approach audit: https://coolak.github.io/cursor-grok-bot-policy-denied/anthropic-approach-audit.html
+- Neutral archive preservation: https://coolak.github.io/cursor-grok-bot-policy-denied/archive-preservation.html
+- Cursor linking guide: https://cursor.com/help/grok-bot/supergrok
 - Regulator-ready attachment: https://coolak.github.io/cursor-grok-bot-policy-denied/regulator-attachment.pdf
 
 ## Privacy boundary

@@ -50,6 +50,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Audited the Anthropic billing mirror at commit `58006ec`, corrected the false claim that it published recipient outlets, and documented that it contained neither a journalist roster nor a numeric press-recipient total.
 - Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
 - Sent material snapshot `630094e` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
+- Verified Cursor's newly published SuperGrok linking guide and xAI's Grok Bot FAQ, then preserved both in successful time-stamped Wayback captures. The first-party guide confirms individual Heavy eligibility, a one-account usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email or `.ru`-domain restriction.
 
 ## Press escalation
 

@@ -7,6 +7,7 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 ## Confirmed facts
 
 - xAI publicly lists SuperGrok Heavy among plans that include Grok Bot.
+- Cursor's public linking guide says individual SuperGrok Heavy qualifies, that the usage grant can be linked to a Cursor account without a paid Cursor plan, and that the link is permanent.
 - The paid identity is authenticated through X and has a valid `.ru` email address.
 - The xAI/X authorization step was reached and approved.
 - Cursor's callback returned `policy_denied`.
@@ -24,7 +25,7 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 - Whether the paid identity has any pre-existing permanent Cursor link.
 - Whether the block originates in Cursor, xAI, or a shared risk/eligibility service.
 - Whether the block is intentional policy, a sanctions-control implementation, risk scoring, or an unintended account-system defect.
-- Whether any published eligibility rule covers the observed behavior.
+- What unpublished rule, if any, supplements the public guides, which do not identify a same-email or `.ru`-domain restriction.
 
 ## Why this is newsworthy
 
@@ -49,6 +50,8 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 - Evidence hub: https://coolak.github.io/cursor-grok-bot-policy-denied/
 - Source repository: https://github.com/COOLak/cursor-grok-bot-policy-denied
 - xAI plan announcement: https://x.ai/news/grok-bot-more-plans
+- Cursor linking guide: https://cursor.com/help/grok-bot/supergrok
+- Neutral archive preservation: https://coolak.github.io/cursor-grok-bot-policy-denied/archive-preservation.html
 - Reddit report: https://www.reddit.com/r/cursor/comments/1w6p3gi/supergrok_heavy_grok_bot_matching_ru_email_gets/
 - X report: https://x.com/Coolak777/status/2095666718429589769
 

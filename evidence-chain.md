@@ -13,7 +13,8 @@
 9. **Account-model constraint** — Cursor states that emails must match and successful links are permanent.
 10. **Corrected target requirement** — the customer confirms that a new matching-`.ru` personal Cursor account is acceptable.
 11. **Ownership loop** — xAI routes the issue to Cursor; Cursor automation closes the transferred case as a duplicate.
-12. **Unresolved state** — no backend reason, supported path, accountable human owner, ETA, or billing remedy is supplied.
+12. **Expired response window** — one non-duplicated follow-up demands a named owner, exact evaluated rule, supported matching-`.ru` path, ETA, or billing remedy.
+13. **Unresolved state** — no backend reason, supported path, accountable human owner, ETA, or billing remedy is supplied.
 
 ## What the public screenshot establishes
 

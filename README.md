@@ -10,6 +10,11 @@ This repository is a privacy-sanitized public evidence hub for an unresolved pai
 - **[Inspect the system reconciliation matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/reconciliation-matrix.html)**
 - **[Audit the evidence chain and proof boundaries](https://coolak.github.io/cursor-grok-bot-policy-denied/evidence-chain.html)**
 - **[Inspect the public-source matrix](https://coolak.github.io/cursor-grok-bot-policy-denied/public-source-matrix.html)**
+- **[Audit the authentication path](https://coolak.github.io/cursor-grok-bot-policy-denied/authentication-path-audit.html)**
+- **[Inspect the Cursor/xAI support-routing cluster](https://coolak.github.io/cursor-grok-bot-policy-denied/support-routing-cluster.html)**
+- **[Read the account-framing correction](https://coolak.github.io/cursor-grok-bot-policy-denied/account-framing-correction.html)**
+- **[Review the Anthropic-approach parity audit](https://coolak.github.io/cursor-grok-bot-policy-denied/anthropic-approach-audit.html)**
+- **[Download the regulator-ready attachment](https://coolak.github.io/cursor-grok-bot-policy-denied/regulator-attachment.pdf)**
 - **[Inspect the dated public timeline](https://coolak.github.io/cursor-grok-bot-policy-denied/timeline.html)**
 - **[Use the affected-user evidence checklist](https://coolak.github.io/cursor-grok-bot-policy-denied/affected-user-checklist.html)**
 - **[Inspect the machine-readable state](incident-state.json)**
@@ -84,18 +89,21 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-04 18:08 UTC.**
+**Unresolved as of 2026-09-05 00:14 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
 - Cursor has not supplied a supported matching-`.ru` signup/linking path.
 - No human technical owner or firm remediation ETA has been provided.
+- Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
 - Public posts are live. At the latest public check, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - Monitoring and evidence preservation continue every six hours.
 
-## Incident-package parity
+## Anthropic-approach audit and functional parity
 
-This repository now follows the same layered public-incident approach as the customer's Anthropic billing mirror:
+The earlier claim of full structural parity was too broad. The 2026-09-05 audit now maps every material Anthropic incident function to an implemented Cursor artifact, a fact-specific adaptation, or an explicitly open gap. See [`anthropic-approach-audit.md`](anthropic-approach-audit.md).
+
+The implemented common layers include:
 
 - a concise public incident brief;
 - a concrete owner-action packet;
@@ -105,7 +113,13 @@ This repository now follows the same layered public-incident approach as the cus
 - a public timeline;
 - an affected-user checklist for comparable reports;
 - machine-readable state and evidence custody records; and
-- an indexable GitHub Pages site with canonical, Open Graph, Twitter-card, and structured metadata.
+- an indexable GitHub Pages site with canonical, Open Graph, Twitter-card, and structured metadata;
+- a dedicated account-framing correction;
+- an authentication-path audit;
+- a support-routing cluster; and
+- a regulator-ready PDF that is expressly not represented as filed.
+
+No comparable-victim cluster or vendor-owned public issue burst is invented. Transaction-ledger artifacts from the billing incident are not copied into this access incident; their evidentiary function is served by the authentication-path and support-routing audits.
 
 ## What would count as resolution
 

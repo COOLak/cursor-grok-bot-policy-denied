@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-09-04T01:35:09Z",
+  "generated_at_utc": "2026-09-05T00:18:12Z",
   "artifacts": [
     {
       "evidence_id": "E-02",
@@ -22,6 +22,13 @@
       "sha256": "7F3727BA819003C3D5840E70D861C2456BF75191EA821A3CE0CAAEE7AF9BDE50",
       "privacy": "public-safe-generated",
       "description": "Generated social share card summarizing the incident status"
+    },
+    {
+      "evidence_id": "P-02",
+      "public_path": "regulator-attachment.pdf",
+      "sha256": "00D23972EDFFD003F99D0D87334614FF60EAB85C562FBA203A08CEA95B6C6EE2",
+      "privacy": "public-safe-generated",
+      "description": "Three-page regulator-ready incident attachment; preparation is explicitly not represented as filing"
     }
   ]
 }

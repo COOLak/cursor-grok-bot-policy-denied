@@ -37,6 +37,10 @@ This is an unresolved paid-entitlement and platform-governance incident. The req
 - Technical-owner packet: https://coolak.github.io/cursor-grok-bot-policy-denied/owner-action.html
 - Reconciliation matrix: https://coolak.github.io/cursor-grok-bot-policy-denied/reconciliation-matrix.html
 - Evidence chain: https://coolak.github.io/cursor-grok-bot-policy-denied/evidence-chain.html
+- Authentication-path audit: https://coolak.github.io/cursor-grok-bot-policy-denied/authentication-path-audit.html
+- Support-routing cluster: https://coolak.github.io/cursor-grok-bot-policy-denied/support-routing-cluster.html
+- Anthropic-approach audit: https://coolak.github.io/cursor-grok-bot-policy-denied/anthropic-approach-audit.html
+- Regulator-ready attachment: https://coolak.github.io/cursor-grok-bot-policy-denied/regulator-attachment.pdf
 
 ## Privacy boundary
 

@@ -49,6 +49,10 @@ These checks reduce the plausibility of a local VPN/proxy explanation. They do n
 
 The recorded publication checkpoint preserves the public framing. At the 2026-09-04 17:59 UTC checkpoint, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. The community reply's analysis and Grok's routing response are not treated as technical proof, human vendor engagement, or resolution.
 
+## E-09 — Anthropic-approach audit and adapted artifacts
+
+**Public artifacts:** [`anthropic-approach-audit.html`](anthropic-approach-audit.html), [`authentication-path-audit.html`](authentication-path-audit.html), [`support-routing-cluster.html`](support-routing-cluster.html), [`account-framing-correction.html`](account-framing-correction.html), and [`regulator-attachment.pdf`](regulator-attachment.pdf)
+
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.

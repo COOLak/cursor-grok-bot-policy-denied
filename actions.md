@@ -22,6 +22,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Corrected the record to state that a new matching-`.ru` Cursor account is acceptable.
 - Requested a human technical owner, exact backend reason, supported remedy, and ETA.
 - Rejected duplicate closure or generic forwarding language as sufficient resolution.
+- After the promised response window expired, sent one non-duplicated technical follow-up at 2026-09-04 23:52 UTC demanding a named owner, exact evaluated rule, supported matching-`.ru` path, firm ETA, or billing remedy.
 
 ## xAI escalation
 
@@ -36,9 +37,10 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published a separate X clarification correcting the target-account misunderstanding.
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
-- Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, affected-user checklist, machine-readable records, and social/indexing metadata.
+- Expanded the public hub toward the Anthropic mirror's layered incident-package model: incident brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, affected-user checklist, machine-readable records, and social/indexing metadata. A later 2026-09-05 audit corrected the earlier overbroad parity claim and labeled remaining gaps explicitly.
 - Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
 - Recorded the public-attention checkpoint at 1.6K Reddit views and 13 X views; the same replies remain community analysis and automated routing, not human vendor engagement.
+- Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
 
 ## Monitoring
 

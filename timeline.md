@@ -23,10 +23,12 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-03 23:41 | Customer requested confirmation of a human owner, the actual domain policy, a supported remedy, and an ETA; generic routing replies were expressly rejected as resolution. | Private support record retained. |
 | 2026-09-04 | Public Reddit and X evidence threads were published. | Public URLs in `README.md`. |
 | 2026-09-04 01:09 | Public GitHub repository and GitHub Pages evidence mirror published using the same privacy-sanitized incident-hub model as the customer's Anthropic billing record. | This repository and its Pages deployment. |
-| 2026-09-04 01:35 | The public hub was expanded to full structural parity with the customer's Anthropic incident approach, including owner-action, reconciliation, evidence-chain, source-matrix, checklist, and metadata layers. | This repository. No new vendor claim was added. |
+| 2026-09-04 01:35 | The public hub was expanded with an initial Anthropic-inspired package: owner-action, reconciliation, evidence-chain, source-matrix, checklist, and metadata layers. | This repository. A later audit corrected the broader “full parity” characterization. |
 | 2026-09-04 06:04 | Public-thread check recorded 687 Reddit views with one substantive community reply, and 11 X views with one external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
 | 2026-09-04 12:39 | Public-thread check recorded 1.2K Reddit views with the same substantive community reply, and 12 X views with the same external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
 | 2026-09-04 17:59 | Public-thread check recorded 1.6K Reddit views with the same substantive community reply, and 13 X views with the same external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
+| 2026-09-04 23:52 | The promised Cursor response window expired. One non-duplicated follow-up demanded a named human technical owner, exact evaluated rule, supported matching-`.ru` path, firm ETA, or billing remedy. | Private support record retained; access remained unresolved. |
+| 2026-09-05 00:14 | After a forensic comparison against Anthropic mirror commit `58006ec`, the Cursor package added a parity audit, correction record, authentication-path audit, support-routing cluster, and regulator-ready attachment. | Public artifacts in this repository; preparation of the PDF is not evidence of filing. |
 
 ## Material correction history
 

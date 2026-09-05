@@ -98,7 +98,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-05 00:33 UTC.**
+**Unresolved as of 2026-09-05 00:48 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -109,7 +109,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Public posts are live. At the latest public check, Reddit showed 1.6K views and one substantive community reply; X showed 13 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - A staged press campaign has reached 48 distinct verified recipients without an immediate delivery failure.
 - The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 48 current press recipients.
-- Material snapshot `630094e` was sent individually to all 48 current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
+- Material snapshot `38bfe8c` was sent individually to all 48 current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
@@ -118,7 +118,7 @@ The Anthropic incident mirror did **not** publish a journalist roster or a numer
 
 This mirror keeps individual names, addresses, and correspondence private while making the aggregate campaign materially more explicit.
 
-As of 2026-09-05 00:27 UTC, **48 distinct verified recipients at 26 outlets** had received individualized tips and material snapshot `630094e`. The 21 recipients in the first two batches had also received the earlier full parity-package update:
+As of 2026-09-05 00:48 UTC, **48 distinct verified recipients at 26 outlets** had received individualized tips and material snapshot `38bfe8c`. The 21 recipients in the first two batches had also received the earlier full parity-package update:
 
 - 404 Media — 4 recipients
 - ABC News — 1

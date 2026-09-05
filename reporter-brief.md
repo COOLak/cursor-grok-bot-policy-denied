@@ -59,4 +59,4 @@ Private subscription proof, the original authorization screenshot, and sanitized
 
 ## Public outreach checkpoint
 
-As of 2026-09-04 18:08 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, and private correspondence are withheld.
+As of 2026-09-05 00:48 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. The latest distributed snapshot is `38bfe8c`. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, and private correspondence are withheld.

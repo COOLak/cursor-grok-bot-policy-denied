@@ -57,7 +57,7 @@ These URLs prove publication and preserve the public framing. At the 2026-09-04 
 
 **Public artifacts:** [`press-outreach.html`](press-outreach.html) and [`press-outreach-summary.csv`](press-outreach-summary.csv)
 
-The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 26 outlets and reports only aggregate counts. A Gmail sent-mail audit found 48 distinct successful recipients, including 10 marker-verified messages in batch five, plus 48 individually marker-verified replies distributing material snapshot `630094e`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
+The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 26 outlets and reports only aggregate counts. A Gmail sent-mail audit found 48 distinct successful recipients, including 10 marker-verified messages in batch five, plus 48 individually marker-verified replies distributing material snapshot `38bfe8c`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
 
 ## E-09 — Anthropic-approach audit and adapted artifacts
 

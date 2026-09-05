@@ -51,6 +51,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
 - Sent material snapshot `630094e` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
 - Verified Cursor's newly published SuperGrok linking guide and xAI's Grok Bot FAQ, then preserved both in successful time-stamped Wayback captures. The first-party guide confirms individual Heavy eligibility, a one-account usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email or `.ru`-domain restriction.
+- Sent the archived-guidance and public-reconciliation snapshot `38bfe8c` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
 
 ## Press escalation
 

@@ -52,6 +52,9 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent material snapshot `630094e` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
 - Verified Cursor's newly published SuperGrok linking guide and xAI's Grok Bot FAQ, then preserved both in successful time-stamped Wayback captures. The first-party guide confirms individual Heavy eligibility, a one-account usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email or `.ru`-domain restriction.
 - Sent the archived-guidance and public-reconciliation snapshot `38bfe8c` individually to all 48 current press recipients. Marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate.
+- Recorded the first substantive human journalist reply to this campaign. The correspondent supplied a public essay objecting to AI-written pitches; the reply is classified as an outreach-method objection, not coverage, readership, agreement, or incident corroboration. The identity, direct correspondence, signature details, and contact information remain private.
+- Paused new AI-authored cold outreach and mass mirror-update replies pending an explicit transparent composition-method decision. The support watcher and public-thread monitoring remain active.
+- Rechecked the public threads: Reddit reached 2.2K views with the same substantive community reply, while X reached 16 views with the same external automated Grok routing reply.
 
 ## Press escalation
 

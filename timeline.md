@@ -42,6 +42,8 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-05 00:27 | Material snapshot `630094e` was sent individually to all 48 current press recipients. | Private Gmail sent records; tracking-marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate. |
 | 2026-09-05 00:32-00:33 | Cursor's public SuperGrok linking guide and xAI's Grok Bot FAQ were verified and successfully preserved in two time-stamped Wayback captures. | First-party live pages plus neutral captures; the guide confirms individual Heavy eligibility, one-account permanence, and support routing but publishes no same-email or `.ru`-domain restriction. |
 | 2026-09-05 00:47-00:48 | Material snapshot `38bfe8c`, including the neutral archives and public-guidance reconciliation, was sent individually to all 48 current press recipients. | Private Gmail sent records; tracking-marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate. |
+| 2026-09-05 01:59 | A human journalist replied with a public essay objecting to AI-written pitches. | Private reply and public essay inspected; classified as an outreach-method objection, not coverage or incident corroboration. The correspondent's identity and contact details remain private. |
+| 2026-09-05 05:52 | Public-thread check recorded 2.2K Reddit views and 16 X views. New AI-authored cold outreach was paused pending a transparent composition-method decision. | In-app browser inspection; the known community and automated-routing replies remain unchanged, and no human Cursor technical reply arrived. |
 
 ## Material correction history
 

@@ -59,4 +59,4 @@ Private subscription proof, the original authorization screenshot, and sanitized
 
 ## Public outreach checkpoint
 
-As of 2026-09-05 00:48 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. The latest distributed snapshot is `38bfe8c`. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, and private correspondence are withheld.
+As of 2026-09-05 05:52 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. The latest distributed snapshot is `38bfe8c`. One human journalist replied with an outreach-method objection to AI-written pitches; that response is not coverage or incident corroboration. New AI-authored cold outreach is paused pending a transparent composition-method decision. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, signatures, and private correspondence are withheld.

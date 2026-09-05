@@ -10,7 +10,8 @@
 | [Reddit report](https://www.reddit.com/r/cursor/comments/1w6p3gi/supergrok_heavy_grok_bot_matching_ru_email_gets/) | Customer public account | Public framing and any visible community responses. | Technical proof beyond linked artifacts. |
 | [X incident post](https://x.com/Coolak777/status/2095666718429589769) | Customer public account | Public incident notice and publication time. | Backend cause or eligibility. |
 | [X correction](https://x.com/Coolak777/status/2095666806040236440) | Customer public account | The existing non-`.ru` Cursor account is not required; a new matching account is acceptable. | Vendor acceptance of that path. |
-| [`press-outreach-summary.csv`](press-outreach-summary.csv) | Public aggregate derived from private ledger | Outlet-level counts: 21 successful recipients at 11 outlets at the checkpoint. | Recipient identities, private addresses, readership, or response quality. |
+| [`press-outreach-summary.csv`](press-outreach-summary.csv) | Public aggregate derived from private ledger | Outlet-level counts: 48 successful recipients at 26 outlets at the checkpoint. | Recipient identities, private addresses, readership, or response quality. |
+| [`anthropic-approach-audit.md`](anthropic-approach-audit.md) | Public repository snapshot plus private Gmail aggregate | The Anthropic mirror omitted recipient names and a numeric press total; the private cross-check found 82 distinct `tip`-subject destinations. | That all 82 destinations were individual journalists, that they read the message, or that outreach produced coverage. |
 
 ## Verification rule
 

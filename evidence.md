@@ -59,6 +59,12 @@ These URLs prove publication and preserve the public framing. At the 2026-09-04 
 
 The private ledger records exact work addresses, verification sources, send results, and deduplication state. The public summary names 26 outlets and reports only aggregate counts. A Gmail sent-mail audit found 48 distinct successful recipients, including 10 marker-verified messages in batch five, plus 48 individually marker-verified replies distributing material snapshot `13eb557`. No duplicate address or immediate delivery failure was found at the recorded checkpoint.
 
+## E-09 — Anthropic-approach audit and adapted artifacts
+
+**Public artifacts:** [`anthropic-approach-audit.html`](anthropic-approach-audit.html), [`authentication-path-audit.html`](authentication-path-audit.html), [`support-routing-cluster.html`](support-routing-cluster.html), [`account-framing-correction.html`](account-framing-correction.html), and [`regulator-attachment.pdf`](regulator-attachment.pdf)
+
+The audit compares this package with the public Anthropic billing mirror at commit `58006ec`. It confirms that the Anthropic mirror published neither a journalist roster nor a numeric press-recipient total. A private Gmail cross-check found 82 distinct `tip`-subject destinations, but that set includes named reporters, newsrooms, tips desks, and consumer-media endpoints and is not represented as 82 individual journalists. The adapted path, routing, correction, and regulator artifacts fill applicable evidentiary functions without inventing independent coverage, a public vendor issue burst, or transaction evidence.
+
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.

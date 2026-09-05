@@ -22,6 +22,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Corrected the record to state that a new matching-`.ru` Cursor account is acceptable.
 - Requested a human technical owner, exact backend reason, supported remedy, and ETA.
 - Rejected duplicate closure or generic forwarding language as sufficient resolution.
+- After the promised response window expired, sent one non-duplicated technical follow-up at 2026-09-04 23:52 UTC demanding a named owner, exact evaluated rule, supported matching-`.ru` path, firm ETA, or billing remedy.
 
 ## xAI escalation
 
@@ -37,7 +38,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Published an X link amplifying the Reddit evidence.
 - Created this GitHub evidence hub and GitHub Pages mirror.
 - Sent the live evidence hub, source repository, reporter brief, and timeline individually to every press recipient reached so far.
-- Expanded the public hub to the same layered incident-package model as the Anthropic billing mirror: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata.
+- Expanded the public hub toward the Anthropic mirror's layered incident-package model: incident brief, reporter brief, owner-action packet, reconciliation matrix, evidence chain, source matrix, public timeline, outreach record, affected-user checklist, machine-readable records, and social/indexing metadata. A later 2026-09-05 audit corrected the earlier overbroad parity claim and labeled remaining gaps explicitly.
 - Sent the full parity package from material commit `8a549b2` individually to all 21 current press recipients; the update included the reporter brief, owner-action packet, reconciliation matrix, timeline, and privacy-sanitized outreach record.
 - Sent the expanded material snapshot from commit `937d14a` individually to all 31 current press recipients after batch three and public-response metrics were added.
 - Sent a fourth controlled batch to seven newly verified recipients at ABC News, CNBC, Mother Jones, Reuters, Slate, and The Atlantic after deduplicating every address against the private ledger and all Gmail Sent history.
@@ -46,6 +47,8 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Sent a fifth controlled batch to 10 newly verified recipients at BleepingComputer, Business Insider, Computerworld, and CyberScoop after deduplicating every address against the private ledger and all Gmail Sent history.
 - Recorded the public-attention checkpoint at 1.6K Reddit views and 13 X views; the same replies remain community analysis and automated routing, not human vendor engagement.
 - Sent material snapshot `13eb557` individually to all 48 current press recipients after the fifth batch and audience checkpoint were published.
+- Audited the Anthropic billing mirror at commit `58006ec`, corrected the false claim that it published recipient outlets, and documented that it contained neither a journalist roster nor a numeric press-recipient total.
+- Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
 
 ## Press escalation
 

@@ -23,9 +23,8 @@ Reference snapshot: [`COOLak/anthropic-claude-billing-incident` at `58006ec`](ht
 | Regulator-ready attachment | [`regulator-attachment.pdf`](regulator-attachment.pdf) | Implemented; preparation is not evidence of regulatory submission |
 | Vendor-owned public issue tracker and issue burst | No comparable public Cursor Grok Bot tracker was identified | Adapted to private support-route cluster; no public issue burst is invented |
 | Transaction ledger, receipt timeline, and payment-processor trace | Not applicable to an access-entitlement failure without disputed transactions | Replaced by authentication-path and support-routing audits |
-| Neutral third-party web archives | Not yet captured | Open gap; live official links and repository snapshots are preserved |
+| Neutral third-party web archives | [`archive-preservation.md`](archive-preservation.md) | Implemented for the material Cursor linking guide and xAI Grok Bot FAQ; two successful Wayback captures are recorded with proof limits |
 
 ## Accuracy rule
 
 “Parity” means the same evidentiary function where the facts support it. It does not mean copying transaction-specific artifacts into an access incident, inventing comparable victims, or implying that a draft was filed. Open gaps stay labeled until independent evidence exists.
-

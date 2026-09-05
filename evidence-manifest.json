@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-09-05T00:18:12Z",
+  "generated_at_utc": "2026-09-05T00:35:00Z",
   "artifacts": [
     {
       "evidence_id": "E-02",
@@ -26,7 +26,7 @@
     {
       "evidence_id": "P-02",
       "public_path": "regulator-attachment.pdf",
-      "sha256": "00D23972EDFFD003F99D0D87334614FF60EAB85C562FBA203A08CEA95B6C6EE2",
+      "sha256": "CC0004DAC78582012B4F250D44F76573126DCD5593B0DC730421906BB9C18B28",
       "privacy": "public-safe-generated",
       "description": "Three-page regulator-ready incident attachment; preparation is explicitly not represented as filing"
     }

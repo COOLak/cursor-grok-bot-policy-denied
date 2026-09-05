@@ -53,6 +53,14 @@ The recorded publication checkpoint preserves the public framing. At the 2026-09
 
 **Public artifacts:** [`anthropic-approach-audit.html`](anthropic-approach-audit.html), [`authentication-path-audit.html`](authentication-path-audit.html), [`support-routing-cluster.html`](support-routing-cluster.html), [`account-framing-correction.html`](account-framing-correction.html), and [`regulator-attachment.pdf`](regulator-attachment.pdf)
 
+## E-10 — First-party linking terms and neutral preservation
+
+**Public artifacts:** [Cursor's SuperGrok linking guide](https://cursor.com/help/grok-bot/supergrok) and [`archive-preservation.html`](archive-preservation.html)
+
+Cursor's guide publicly confirms that individual SuperGrok Heavy qualifies, linking grants usage to one Cursor account even without a paid Cursor plan, the link is permanent, and unresolved access/email problems should be taken to support. Successful Wayback captures preserve that guide and xAI's eligibility FAQ as displayed on 2026-09-05 UTC.
+
+The guide does not publish a same-email requirement or a `.ru`-domain exclusion. That absence is not proof that no internal rule exists and does not establish why this account was denied.
+
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.

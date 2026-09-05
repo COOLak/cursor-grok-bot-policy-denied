@@ -29,6 +29,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-04 17:59 | Public-thread check recorded 1.6K Reddit views with the same substantive community reply, and 13 X views with the same external automated Grok routing reply. | Public pages inspected in the in-app browser; neither reply is treated as technical proof or a human vendor response. |
 | 2026-09-04 23:52 | The promised Cursor response window expired. One non-duplicated follow-up demanded a named human technical owner, exact evaluated rule, supported matching-`.ru` path, firm ETA, or billing remedy. | Private support record retained; access remained unresolved. |
 | 2026-09-05 00:14 | After a forensic comparison against Anthropic mirror commit `58006ec`, the Cursor package added a parity audit, correction record, authentication-path audit, support-routing cluster, and regulator-ready attachment. | Public artifacts in this repository; preparation of the PDF is not evidence of filing. |
+| 2026-09-05 00:32-00:33 | Cursor's public SuperGrok linking guide and xAI's Grok Bot FAQ were verified and successfully preserved in two time-stamped Wayback captures. | First-party live pages plus neutral captures; the guide confirms individual Heavy eligibility, one-account permanence, and support routing but publishes no same-email or `.ru`-domain restriction. |
 
 ## Material correction history
 

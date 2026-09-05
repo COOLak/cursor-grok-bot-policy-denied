@@ -41,6 +41,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Recorded the public-attention checkpoint at 1.2K Reddit views and 12 X views; the existing replies remain a community analysis and an automated routing response, not human vendor engagement.
 - Recorded the public-attention checkpoint at 1.6K Reddit views and 13 X views; the same replies remain community analysis and automated routing, not human vendor engagement.
 - Added a functional-parity audit, account-framing correction, authentication-path audit, support-routing cluster, and regulator-ready public attachment. Open gaps remain labeled rather than implied complete.
+- Verified Cursor's newly published SuperGrok linking guide and xAI's Grok Bot FAQ, then preserved both in successful time-stamped Wayback captures. The first-party guide confirms individual Heavy eligibility, a one-account usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email or `.ru`-domain restriction.
 
 ## Monitoring
 

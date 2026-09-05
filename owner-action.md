@@ -9,6 +9,7 @@ Assign one human owner who can inspect Cursor's Grok Bot authentication, account
 - Cursor collected screenshots, plan context, account details, and proxy/VPN checks.
 - Cursor reported a backend-settings refresh; the retry still failed.
 - Cursor stated that the SuperGrok and Cursor emails must match and that a successful link cannot be moved.
+- Cursor's public linking guide confirms individual Heavy eligibility, a usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but does not publish the privately stated same-email rule or a `.ru`-domain exclusion.
 - Cursor later forwarded the matter to the Grok Bot technical team without a named owner, finding, remedy, or ETA.
 - xAI routed the issue back to Cursor.
 - Cursor automation closed the transferred request as a duplicate of the original unresolved case.
@@ -37,6 +38,7 @@ Assign one human owner who can inspect Cursor's Grok Bot authentication, account
 | Risk/compliance controls | State whether domain, geography, sanctions controls, abuse scoring, or another policy intentionally blocks the path. |
 | Error telemetry | Preserve the failed authorization decisions and correlate them with the customer's private support evidence. |
 | Support tooling | Make the backend reason and supported remedy visible to the assigned human owner instead of creating a duplicate loop. |
+| Public-policy documentation | Reconcile the privately stated same-email rule and observed denial with the public linking guide, including any unpublished domain, region, or eligibility restriction. |
 | Billing remedy | If the benefit is unavailable by policy, identify the responsible vendor and the refund, service-credit, or equivalent remedy. |
 
 ## Minimum useful reply
@@ -46,10 +48,11 @@ A useful written reply must provide:
 1. a named or clearly accountable human technical team;
 2. the precise backend reason for `policy_denied`;
 3. whether the matching `.ru` personal-account path is supported;
-4. whether a permanent or partial link already exists;
-5. exact safe retry or remediation steps;
-6. an ETA; and
-7. a billing remedy if the advertised benefit cannot be delivered.
+4. how the evaluated rule reconciles with the public linking guide;
+5. whether a permanent or partial link already exists;
+6. exact safe retry or remediation steps;
+7. an ETA; and
+8. a billing remedy if the advertised benefit cannot be delivered.
 
 ## What does not resolve the incident
 

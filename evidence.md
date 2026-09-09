@@ -83,3 +83,8 @@ After refresh, the customer reports email-code signup returned the original acce
 ## E-12 — FTC intake confirmation
 
 Official browser receipt and submitted narrative retained privately. Report submitted September 9, 2026. Intake only, not proof of an investigation or findings. A later refresh clarification is retained with the receipt.
+
+## E-13 — Local consumer-affairs referral, September 9
+
+At 05:55 UTC on September 9, a local consumer-affairs office replied that it cannot negotiate with foreign sellers over directly purchased digital services. It referred the customer to a separate cross-border consumer-dispute service from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy. The original email is retained privately; municipality, staff/contact details and message identifiers are withheld. [Updated escalation context](mobile-signup-20260909.html).
+

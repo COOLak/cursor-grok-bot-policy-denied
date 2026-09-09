@@ -44,6 +44,8 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-09 03:10 | FTC received a linked supplement containing the refresh correction and referencing the original report. | Browser and email receipts verified; one incident, no new loss or finding. |
 | 2026-09-09 | Published the public incident updates. | Signed-in public articles and permanent links verified. |
 
+| 2026-09-09 05:55 | A local consumer-affairs office said it cannot negotiate directly purchased digital-service disputes with foreign sellers and referred the customer to a separate cross-border consumer-dispute service from September 14. | Full private reply read; routing response only, not complaint acceptance, finding or remedy. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

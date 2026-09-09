@@ -104,7 +104,8 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 36 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 39 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- At 05:55 UTC on September 9, a local consumer-affairs office replied that it cannot negotiate with foreign sellers over directly purchased digital services. It referred the customer to a separate cross-border consumer-dispute service from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Anthropic-approach audit and functional parity

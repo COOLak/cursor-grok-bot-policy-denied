@@ -55,5 +55,5 @@ After refreshing the page and requesting an email code again, the customer repor
 
 A factual update was sent to the original Cursor support case on September 9. An FTC consumer report was submitted and its on-screen receipt verified. The private report number and contact details are withheld. FTC intake is not a finding against either vendor, a confirmed investigation, or a promise of individual redress. The later refresh clarification was sent to Cursor and submitted to the FTC as a linked supplement referencing the original report, following the FTC FAQ. Its receipt was also verified. This is one incident with a clarification, not two separate losses.
 
-A private inquiry was sent to the local consumer-affairs office asking how to submit written evidence. This is a routing inquiry, not confirmation that a formal complaint has been accepted.
+A private inquiry was sent to a local consumer-affairs office asking how to submit written evidence. At 05:55 UTC on September 9, a local consumer-affairs office replied that it cannot negotiate with foreign sellers over directly purchased digital services. It referred the customer to a separate cross-border consumer-dispute service from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
 

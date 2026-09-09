@@ -23,3 +23,8 @@ The `.ru` email-domain trigger is a customer inference based on the repeated fai
 ## Required vendor record
 
 Cursor and xAI can resolve the remaining uncertainty by naming the technical owner and disclosing the evaluated account class, domain/region rule, entitlement result, prior-link state, and safe supported retry path. A generic support transfer does not answer those questions.
+
+
+## September 9 signup evidence and route correction
+
+The customer reports never having had a Cursor account under the matching .ru address. A new phone password-signup attempt displayed “Create a Grok Bot account” and “Access blocked, please contact support.” The supplied route redirects to the bot callback: this is not proof of a separate ordinary Cursor signup failure. The .ru trigger is still unconfirmed. [Read the new evidence, original checksum and limitations](mobile-signup-20260909.md).

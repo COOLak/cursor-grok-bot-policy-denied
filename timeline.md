@@ -32,6 +32,8 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-05 00:32-00:33 | Cursor's public SuperGrok linking guide and xAI's Grok Bot FAQ were verified and successfully preserved in two time-stamped Wayback captures. | First-party live pages plus neutral captures; the guide confirms individual Heavy eligibility, one-account permanence, and support routing but publishes no same-email or `.ru`-domain restriction. |
 | 2026-09-05 05:52 | Public-thread check recorded 2.2K Reddit views and 16 X views. | In-app browser inspection; the known community and automated-routing replies remain unchanged, and no human Cursor technical reply arrived. |
 
+| 2026-09-09 | Customer supplied phone signup screenshot and clarified never having had the matching-email Cursor account. Visible bot signup heading/error and supplied bot callback limit the claim: not proof of ordinary Cursor signup failure. | E-10 original retained privately with SHA-256; public transcription and route correction published. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

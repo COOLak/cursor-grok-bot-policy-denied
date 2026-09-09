@@ -2,6 +2,10 @@
 
 This repository is a privacy-sanitized public evidence hub for an unresolved paid-feature access failure involving xAI's SuperGrok Heavy subscription and Cursor's Grok Bot linking flow.
 
+## Latest evidence — September 9
+
+[Matching-email password signup also fails; bot-context limitation and original checksum](mobile-signup-20260909.html). The customer reports never having had a Cursor account under that matching address. No confirmed domain-policy finding or restored access.
+
 ## Start here
 
 - **[Open the public incident page](https://coolak.github.io/cursor-grok-bot-policy-denied/)**

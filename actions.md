@@ -49,3 +49,10 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - A six-hour watcher monitors the authoritative Cursor support thread, the xAI transfer, Reddit, X, and this public mirror.
 - Routine no-change checks remain quiet.
 - A vendor claim that the issue is fixed must be tested in the live signup/sign-in/linking flow before the incident can be marked resolved.
+
+
+## September 9 evidence update
+
+- Preserved the new phone screenshot privately and published its SHA-256, selected-text transcription and bot-callback route correction. Never uploaded the private email or OAuth session URL.
+- Recorded the customer statement that the matching-email Cursor account has never existed.
+- Prepared consumer complaint narratives and inspected official intake routes. No agency submission or case number is claimed at this checkpoint.

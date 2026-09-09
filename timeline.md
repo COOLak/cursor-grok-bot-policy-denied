@@ -57,6 +57,8 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-09 03:10 | FTC received a linked supplement containing the refresh correction and referencing the original report. | Browser and email receipts verified; one incident, no new loss or finding. |
 | 2026-09-09 | Published the [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096). | Signed-in public articles and permanent links verified. |
 
+| 2026-09-09 03:38–03:39 | Resumed press outreach with six tailored, explicitly AI-assisted notes: five named journalists and one tips desk. Campaign total 54 destinations at 31 outlets. | Six Sent records verified; no immediate bounce found. September 9 evidence page included; no count-only rebroadcast or claim of readership. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

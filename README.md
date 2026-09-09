@@ -102,7 +102,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-05 05:52 UTC.**
+**Unresolved as of 2026-09-09 03:40 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -110,11 +110,11 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the latest public check, Reddit showed 2.2K views and one substantive community reply; X showed 16 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
-- A staged press campaign has reached 48 distinct verified recipients without an immediate delivery failure.
-- One human journalist replied with a public essay objecting to AI-written pitches. That is an outreach-method objection, not coverage or technical corroboration. New AI-authored cold outreach is paused pending a transparent composition-method decision; support and public monitoring continue.
-- The live GitHub mirror, reporter brief, and timeline were individually included in outreach to all 48 current press recipients.
-- Material snapshot `38bfe8c` was sent individually to all 48 current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
+- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 36 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- A staged press campaign has reached 54 distinct Sent-verified destinations at 31 outlets; no immediate delivery failure was found for the new batch.
+- One human journalist replied with a public essay objecting to AI-written pitches. That is an outreach-method objection, not coverage or technical corroboration. On September 9, outreach resumed with individually researched notes explicitly disclosing AI assistance; the correspondent who objected was not contacted again.
+- The earlier 48 received the hub, reporter brief and timeline. Six new destinations received the September 9 evidence page, which links the public record. This is not a claim that the earlier 48 received the new addendum.
+- On September 5, material snapshot `38bfe8c` was sent individually to all 48 then-current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
@@ -123,14 +123,14 @@ The Anthropic incident mirror did **not** publish a journalist roster or a numer
 
 This mirror keeps individual names, addresses, and correspondence private while making the aggregate campaign materially more explicit.
 
-As of 2026-09-05 00:48 UTC, **48 distinct verified recipients at 26 outlets** had received individualized tips and material snapshot `38bfe8c`. The 21 recipients in the first two batches had also received the earlier full parity-package update:
+As of September 9, 2026, 03:40 UTC, **54 distinct Sent-verified destinations at 31 outlets** have been contacted. Batch six added five named journalists and one tips desk, all given the September 9 evidence page. The earlier 48 received historical snapshot `38bfe8c` on September 5. Counts include desks as well as individuals and do not establish readership:
 
-- 404 Media — 4 recipients
+- 404 Media — 4
 - ABC News — 1
-- Ars Technica — 1
+- Ars Technica — 2
 - Axios — 1
-- Bloomberg — 1
 - BleepingComputer — 4
+- Bloomberg — 1
 - Business Insider — 1
 - CNBC — 2
 - Computerworld — 4
@@ -138,16 +138,21 @@ As of 2026-09-05 00:48 UTC, **48 distinct verified recipients at 26 outlets** ha
 - Engadget — 3
 - Fast Company — 1
 - Forbes — 2
+- Futurism — 1
 - Gizmodo — 1
 - Mother Jones — 1
+- Platformer — 1
 - Rest of World — 1
 - Reuters — 1
 - Slate — 1
-- TechCrunch — 1
 - Tech Policy Press — 1
+- TechCrunch — 1
 - TechRadar — 1
+- TechSpot — 1
 - The Atlantic — 1
 - The Register — 5
+- The Verge — 1
+- The Washington Post — 1
 - Tom's Hardware — 1
 - VentureBeat — 1
 - WIRED — 6

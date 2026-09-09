@@ -59,7 +59,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 ## Press escalation
 
 - Built a private deduplicated outreach ledger containing source-verified work contacts.
-- Sent 48 individualized tips across 26 technology-news outlets in five controlled batches.
+- First five batches: 48 tips across 26 outlets. September 9 batch six adds six destinations (five named journalists and one tips desk); total 54 at 31 outlets.
 - Sent batch three to 10 newly verified recipients at WIRED, Rest of World, Axios, Fast Company, and Tech Policy Press; every address was deduplicated against prior outreach and each message carried a unique batch marker.
 - Used only published newsroom or staff work contacts.
 - Included the xAI announcement, error mechanics, corrected account requirement, support-routing loop, and public evidence links.
@@ -71,8 +71,8 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified 38 snapshot-update replies to 38 distinct recipients and found no immediate delivery failure.
 - Verified 10 batch-five messages to 10 distinct recipients and found no immediate delivery failure.
 - Verified 48 snapshot-update replies to 48 distinct recipients and found no immediate delivery failure.
-- Scheduled further batches of 10–15 new verified recipients every six hours until at least 100 distinct successful recipients are reached.
-- Scheduled individual update notices to every successfully contacted journalist whenever this repository gains a substantive new fact, vendor response, failure reproduction, public action, or resolution test.
+- September 9 revised cadence: five to eight newly verified relevant destinations every six hours until at least 100, prioritizing new outlets and one destination per outlet per batch.
+- Material incident changes may be shared once with eligible prior recipients, respecting objections and opt-outs. No pressure reminders, repeated initial tips or count-only broadcasts.
 
 ## Monitoring
 
@@ -86,7 +86,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Preserved the new phone screenshot privately and published its SHA-256, selected-text transcription and bot-callback route correction. Never uploaded the private email or OAuth session URL.
 - Recorded the customer statement that the matching-email Cursor account has never existed.
 - Prepared English and Japanese consumer complaint narratives and inspected official intake routes. At that initial preparation checkpoint nothing had been filed; verified submissions are recorded below.
-- Press distribution of this update remains on hold; no additional recipient or coverage count is implied.
+- At the earlier preparation checkpoint, press distribution was on hold. The later batch-six distribution is recorded below; no coverage is implied.
 
 - Recorded the later email-code verification failure as E-11 and the customer-reported working Gmail-account comparison. Original image and full account details remain private.
 
@@ -97,4 +97,13 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Submitted the refresh clarification as an FTC supplement explicitly referencing the initial report, as directed by its FAQ. Verified the browser receipt, displayed submitted narrative and email acknowledgement. This is one incident, not two claimed losses.
 - Sent a private written-evidence routing inquiry and follow-up to the local consumer-affairs office in Japan. A formal complaint has not been confirmed accepted.
 - Published and verified the [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096). Exact residency and other private details remain withheld.
-- Retained the six-hour monitoring cadence and the existing press-outreach hold.
+- At that checkpoint, retained the six-hour monitoring cadence and press hold; the subsequent renewal below supersedes the hold.
+
+## September 9: more considerate press outreach resumed
+
+- Following the customer's renewed instruction, lifted the composition-method hold and sent six separate, tailored notes at 03:38–03:39 UTC: five named journalists and one tips desk, across six outlets (five new to the campaign).
+- Verified work contacts on primary outlet pages, checked Sent and the private ledger, and excluded the correspondent who objected. No CC or BCC was used.
+- Each note included explicit AI-assistance disclosure, a beat-relevant angle, the September 9 evidence-page link and a low-pressure question. The unconfirmed domain cause and limits of the phone test were not presented as established findings.
+- Verified all six in Sent; no immediate bounce found. Total 54 distinct destinations at 31 outlets; neither receipt nor readership is established.
+- The earlier 48 have not yet received the September 9 addendum by email. This bookkeeping update was not rebroadcast.
+- Six-hour staged outreach continues in smaller batches of five to eight, with objections and opt-outs respected. Private recipient identities, addresses and exact pitches remain outside this repository.

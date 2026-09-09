@@ -59,7 +59,7 @@ Private subscription proof, the original authorization screenshot, and sanitized
 
 ## Public outreach checkpoint
 
-As of 2026-09-05 05:52 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. The latest distributed snapshot is `38bfe8c`. One human journalist replied with an outreach-method objection to AI-written pitches; that response is not coverage or incident corroboration. New AI-authored cold outreach is paused pending a transparent composition-method decision. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, signatures, and private correspondence are withheld.
+As of 2026-09-05 05:52 UTC, individualized privacy-sanitized tips and material evidence-hub updates had reached **48 distinct verified recipients at 26 outlets**. The latest distributed snapshot is `38bfe8c`. One human journalist replied with an outreach-method objection to AI-written pitches; that response is not coverage or incident corroboration. That hold was lifted on September 9: six new destinations (five named journalists and one tips desk) received short, tailored notes with explicit AI-assistance disclosure and the September 9 evidence page. Total: 54 Sent-verified destinations at 31 outlets. The earlier 48 have not yet received that addendum by email; Sent does not prove readership. Outlet names and counts are public in [`press-outreach-summary.csv`](press-outreach-summary.csv); individual names, addresses, signatures, and private correspondence are withheld.
 
 
 ## September 9 signup evidence and route correction

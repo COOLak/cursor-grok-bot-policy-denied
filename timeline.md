@@ -52,6 +52,11 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-09 03:01 | FTC report submission confirmed in official browser; original Cursor case received the new signup evidence. | Private FTC receipt retained; Gmail Sent verified. No regulator finding or remedy claimed. |
 | 2026-09-09, after submission | Customer refreshed and requested an email code: original access block returned; human-verification error did not persist. | Customer report; transient verification state, timeout cause unverified. Dated supplement retained. |
 
+| 2026-09-09 03:03 | Sent the refresh clarification to the original Cursor case. | Gmail Sent verified. |
+| 2026-09-09 03:07–03:10 | Sent a written-evidence routing inquiry and private follow-up to a local consumer-affairs office in Japan. | Sent verified; no formal complaint acceptance claimed. |
+| 2026-09-09 03:10 | FTC received a linked supplement containing the refresh correction and referencing the original report. | Browser and email receipts verified; one incident, no new loss or finding. |
+| 2026-09-09 | Published the [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096). | Signed-in public articles and permanent links verified. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

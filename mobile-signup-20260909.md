@@ -38,7 +38,7 @@ The `.ru` trigger remains a hypothesis, not a vendor-confirmed policy or a findi
 [Evidence hub](https://coolak.github.io/cursor-grok-bot-policy-denied/) · [Timeline](timeline.md) · [Account-framing correction](account-framing-correction.md)
 
 
-## Later September 9: email-code verification failure (E-11)
+## Later September 9: transient email-code verification error (E-11)
 
 After selecting “Continue with email code,” the customer supplied a second phone screenshot showing **“Unable to verify the user is human.”** The customer reports that no CAPTCHA challenge was displayed, that they were in Japan, and that their Cursor account created with a Gmail address works. These are additional customer-reported comparison facts, not a controlled same-session test with only the email domain varied.
 
@@ -53,4 +53,8 @@ After refreshing the page and requesting an email code again, the customer repor
 
 ## Escalation status
 
-A factual update was sent to the original Cursor support case on September 9. An FTC consumer report was submitted and its on-screen receipt verified. The private report number and contact details are withheld. FTC intake is not a finding against either vendor, a confirmed investigation, or a promise of individual redress. The refresh clarification arrived after submission and is retained as a dated supplement to the submitted record.
+A factual update was sent to the original Cursor support case on September 9. An FTC consumer report was submitted and its on-screen receipt verified. The private report number and contact details are withheld. FTC intake is not a finding against either vendor, a confirmed investigation, or a promise of individual redress. The later refresh clarification was sent to Cursor and submitted to the FTC as a linked supplement referencing the original report, following the FTC FAQ. Its receipt was also verified. This is one incident with a clarification, not two separate losses.
+
+A private inquiry was sent to the local consumer-affairs office in Japan asking how to submit written evidence. This is a routing inquiry, not confirmation that a formal complaint has been accepted.
+
+The [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096) were published and verified. No new press distribution is claimed; the existing outreach-method hold remains.

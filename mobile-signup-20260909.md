@@ -55,6 +55,10 @@ After refreshing the page and requesting an email code again, the customer repor
 
 A factual update was sent to the original Cursor support case on September 9. An FTC consumer report was submitted and its on-screen receipt verified. The private report number and contact details are withheld. FTC intake is not a finding against either vendor, a confirmed investigation, or a promise of individual redress. The later refresh clarification was sent to Cursor and submitted to the FTC as a linked supplement referencing the original report, following the FTC FAQ. Its receipt was also verified. This is one incident with a clarification, not two separate losses.
 
-A private inquiry was sent to the local consumer-affairs office in Japan asking how to submit written evidence. This is a routing inquiry, not confirmation that a formal complaint has been accepted.
+A private inquiry was sent to a local consumer-affairs office in Japan asking how to submit written evidence. At 05:55 UTC on September 9, a local consumer-affairs office in Japan replied that it cannot negotiate with overseas sellers over directly purchased digital services. It referred the customer to the National Consumer Affairs Center's Cross-border Consumer Center Japan (CCJ) from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
 
 The [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096) were published and verified. No new press distribution is claimed; the existing outreach-method hold remains.
+
+## Evidence distribution checkpoint — 06:49 UTC
+
+The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership. See the [outreach record](press-outreach.html). No count-only broadcast was sent.

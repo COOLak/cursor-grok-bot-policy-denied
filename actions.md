@@ -107,3 +107,12 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Verified all six in Sent; no immediate bounce found. Total 54 distinct destinations at 31 outlets; neither receipt nor readership is established.
 - The earlier 48 have not yet received the September 9 addendum by email. This bookkeeping update was not rebroadcast.
 - Six-hour staged outreach continues in smaller batches of five to eight, with objections and opt-outs respected. Private recipient identities, addresses and exact pitches remain outside this repository.
+
+## September 9: agency reply and next controlled press batch
+
+- At 05:55 UTC on September 9, a local consumer-affairs office in Japan replied that it cannot negotiate with overseas sellers over directly purchased digital services. It referred the customer to the National Consumer Affairs Center's Cross-border Consumer Center Japan (CCJ) from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
+- No new Cursor or xAI substantive reply, press response, opt-out or delivery failure was found during this check. Reddit and X showed no new substantive response or moderation change; no new social post was sent.
+- At approximately 06:46 UTC, sent five new individual notes at five new outlets: three named journalists and two editorial desks. Verified recipient, subject, exact body and Sent label. Campaign total: 59 destinations at 36 outlets.
+- At approximately 06:47 UTC, sent five individual material evidence updates to eligible earlier recipients after checking incoming mail and prior distribution. All were Sent-verified. The objector was not contacted.
+- The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership.
+- No count-only broadcast. The six-hour cadence and privacy boundaries remain in force; the underlying access issue is unresolved.

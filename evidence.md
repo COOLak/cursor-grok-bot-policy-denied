@@ -95,3 +95,11 @@ After refresh, the customer reports email-code signup returned the original acce
 ## E-12 — FTC intake confirmation
 
 Official browser receipt and submitted narrative retained privately. Report submitted September 9, 2026. Intake only, not proof of an investigation or findings. A later refresh clarification is retained with the receipt.
+
+## E-13 — Local consumer-affairs referral, September 9
+
+At 05:55 UTC on September 9, a local consumer-affairs office in Japan replied that it cannot negotiate with overseas sellers over directly purchased digital services. It referred the customer to the National Consumer Affairs Center's Cross-border Consumer Center Japan (CCJ) from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy. The original email is retained privately; municipality, staff/contact details and message identifiers are withheld. [Updated escalation context](mobile-signup-20260909.html).
+
+### E-08 September 9 dispatch checkpoint
+
+Two new batches added eleven destinations, bringing the total to 59 at 36 outlets. Five eligible earlier recipients also received individualized factual addenda. The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-09-09T02:59:53.715Z",
+  "generated_at_utc": "2026-09-09T06:49:00Z",
   "artifacts": [
     {
       "evidence_id": "E-02",
@@ -45,6 +45,14 @@
       "public_path": null,
       "sha256": "b2cdd763aa38a08e74128c07dfa80c9ecd2e2c255788aaf14f8baf623431fa5d",
       "size_bytes": 246364,
+      "privacy_status": "withheld-private",
+      "public_summary": "mobile-signup-20260909.html"
+    },
+    {
+      "id": "E-13",
+      "description": "Local consumer-affairs office in Japan referred the customer to CCJ from September 14; routing only, not complaint acceptance or remedy",
+      "received_at_utc": "2026-09-09T05:55:28Z",
+      "public_path": null,
       "privacy_status": "withheld-private",
       "public_summary": "mobile-signup-20260909.html"
     }

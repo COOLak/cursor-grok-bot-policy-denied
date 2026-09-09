@@ -110,11 +110,12 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 36 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
-- A staged press campaign has reached 54 distinct Sent-verified destinations at 31 outlets; no immediate delivery failure was found for the new batch.
+- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 39 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- A staged press campaign has reached 59 distinct Sent-verified destinations at 36 outlets; no immediate delivery failure was found for the new batch.
 - One human journalist replied with a public essay objecting to AI-written pitches. That is an outreach-method objection, not coverage or technical corroboration. On September 9, outreach resumed with individually researched notes explicitly disclosing AI assistance; the correspondent who objected was not contacted again.
-- The earlier 48 received the hub, reporter brief and timeline. Six new destinations received the September 9 evidence page, which links the public record. This is not a claim that the earlier 48 received the new addendum.
+- The earlier 48 received the historical hub, reporter brief and timeline. The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership.
 - On September 5, material snapshot `38bfe8c` was sent individually to all 48 then-current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
+- At 05:55 UTC on September 9, a local consumer-affairs office in Japan replied that it cannot negotiate with overseas sellers over directly purchased digital services. It referred the customer to the National Consumer Affairs Center's Cross-border Consumer Center Japan (CCJ) from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Media-outreach record
@@ -123,7 +124,7 @@ The Anthropic incident mirror did **not** publish a journalist roster or a numer
 
 This mirror keeps individual names, addresses, and correspondence private while making the aggregate campaign materially more explicit.
 
-As of September 9, 2026, 03:40 UTC, **54 distinct Sent-verified destinations at 31 outlets** have been contacted. Batch six added five named journalists and one tips desk, all given the September 9 evidence page. The earlier 48 received historical snapshot `38bfe8c` on September 5. Counts include desks as well as individuals and do not establish readership:
+As of September 9, 2026, 06:49 UTC, **59 distinct Sent-verified destinations at 36 outlets** have been contacted. Batches six and seven added eleven destinations: eight named journalists and three editorial desks. All received the September 9 evidence page, as did five eligible earlier recipients. The earlier 48 received historical snapshot `38bfe8c` on September 5. Counts include desks as well as individuals and do not establish readership:
 
 - 404 Media — 4
 - ABC News — 1
@@ -155,6 +156,11 @@ As of September 9, 2026, 03:40 UTC, **54 distinct Sent-verified destinations at 
 - The Washington Post — 1
 - Tom's Hardware — 1
 - VentureBeat — 1
+- How-To Geek — 1
+- The Decoder — 1
+- The Deep View — 1
+- Windows Central — 1
+- Windows Latest — 1
 - WIRED — 6
 
 No immediate delivery failure was found at the recorded checkpoint. Exact recipient names and addresses remain private; the public-safe outlet ledger is [`press-outreach-summary.csv`](press-outreach-summary.csv).

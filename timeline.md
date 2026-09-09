@@ -59,6 +59,10 @@ All timestamps are UTC where a precise time is available. Private account addres
 
 | 2026-09-09 03:38–03:39 | Resumed press outreach with six tailored, explicitly AI-assisted notes: five named journalists and one tips desk. Campaign total 54 destinations at 31 outlets. | Six Sent records verified; no immediate bounce found. September 9 evidence page included; no count-only rebroadcast or claim of readership. |
 
+| 2026-09-09 05:55 | A local consumer-affairs office in Japan said it cannot negotiate directly purchased digital-service disputes with overseas sellers and referred the customer to CCJ from September 14. | Full private reply read; routing response only, not complaint acceptance, finding or remedy. |
+| 2026-09-09 06:46 | Batch seven added five new destinations at five new outlets: three named journalists and two editorial desks. Cumulative total 59 at 36 outlets. | Exact bodies and Sent records verified; no immediate bounce; no readership claim. |
+| 2026-09-09 06:47 | Five eligible earlier recipients received individual September 9 signup-evidence updates. | Sent verified; 16 destinations have received this addendum in total. Unique-contact count unchanged by these updates; objection excluded. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

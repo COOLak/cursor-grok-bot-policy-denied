@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-09-05T00:35:00Z",
+  "generated_at_utc": "2026-09-09T02:56:00Z",
   "artifacts": [
     {
       "evidence_id": "E-02",
@@ -29,6 +29,15 @@
       "sha256": "73025B94999A1441DC8A6A79363273D02613302ACFFF7291315F9FA30A678BEA",
       "privacy": "public-safe-generated",
       "description": "Three-page regulator-ready incident attachment; preparation is explicitly not represented as filing"
+    },
+    {
+      "id": "E-10",
+      "description": "September 9 phone password-signup screenshot; private original with public transcription and bot-route correction",
+      "public_path": null,
+      "sha256": "b1f117e920c40d62ef9b298235c6d3b07526b8169cb50804e770265a1bc01bf9",
+      "size_bytes": 246537,
+      "privacy_status": "withheld-private",
+      "public_summary": "mobile-signup-20260909.html"
     }
   ]
 }

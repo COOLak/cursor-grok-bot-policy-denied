@@ -76,3 +76,8 @@ The guide does not publish a same-email requirement or a `.ru`-domain exclusion.
 ## Central inference boundary
 
 The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.
+
+
+## E-10 — September 9 phone password-signup screenshot
+
+Original retained privately, SHA-256 b1f117e920c40d62ef9b298235c6d3b07526b8169cb50804e770265a1bc01bf9, 246537 bytes. [Public transcription and route correction](mobile-signup-20260909.md). Shows the bot signup heading and access block, not a confirmed domain-policy cause or ordinary Cursor signup independent of Grok Bot. No claim this phone attempt was VPN-free.

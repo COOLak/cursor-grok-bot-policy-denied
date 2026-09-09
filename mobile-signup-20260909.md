@@ -36,3 +36,21 @@ The customer's account-creation history and use of the phone are customer report
 The `.ru` trigger remains a hypothesis, not a vendor-confirmed policy or a finding of unlawful discrimination. A working access path is still the requested outcome. If it cannot be supplied, the customer seeks a written explanation and an appropriate remedy for the unavailable advertised benefit—not an unsupported claim that the entire subscription was unusable.
 
 [Evidence hub](https://coolak.github.io/cursor-grok-bot-policy-denied/) · [Timeline](timeline.md) · [Account-framing correction](account-framing-correction.md)
+
+
+## Later September 9: email-code verification failure (E-11)
+
+After selecting “Continue with email code,” the customer supplied a second phone screenshot showing **“Unable to verify the user is human.”** The customer reports that no CAPTCHA challenge was displayed, that they were in Japan, and that their Cursor account created with a Gmail address works. These are additional customer-reported comparison facts, not a controlled same-session test with only the email domain varied.
+
+The new error records a failed human-verification step, not proof that the customer was classified as a bot. A page may perform background verification or fail before displaying a challenge; this screenshot does not identify the provider, cause, or relationship to the access denial. The working account makes a universal Cursor outage less plausible, but does not establish the precise account/email restriction. The .ru trigger is still unconfirmed.
+
+Private original: 246,364 bytes. SHA-256: `b2cdd763aa38a08e74128c07dfa80c9ecd2e2c255788aaf14f8baf623431fa5d`. Cursor is asked to compare the working account with the failed matching-email signup and investigate both errors. No challenge bypass was attempted.
+
+
+## Latest September 9 correction: refresh returns to the original access block
+
+After refreshing the page and requesting an email code again, the customer reports that “Unable to verify the user is human” disappeared and **“Access blocked, please contact support” returned**. The customer attributes the temporary verification error to a timeout. The refresh result is consistent with a transient or stale verification state, but the server-side cause has not been verified. E-11 remains historical evidence; it must not be presented as a second continuing barrier. The unresolved issue is the persistent access block on the matching-email signup path.
+
+## Escalation status
+
+A factual update was sent to the original Cursor support case on September 9. An FTC consumer report was submitted and its on-screen receipt verified. The private report number and contact details are withheld. FTC intake is not a finding against either vendor, a confirmed investigation, or a promise of individual redress. The refresh clarification arrived after submission and is retained as a dated supplement to the submitted record.

@@ -87,3 +87,8 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Recorded the customer statement that the matching-email Cursor account has never existed.
 - Prepared English and Japanese consumer complaint narratives and inspected official intake routes. No agency submission or case number is claimed at this checkpoint.
 - Press distribution of this update remains on hold; no additional recipient or coverage count is implied.
+
+- Recorded the later email-code verification failure as E-11 and the customer-reported working Gmail-account comparison. Original image and full account details remain private.
+
+- Sent the September 9 evidence update to the original Cursor case and verified it in Sent. Submitted a factual FTC consumer report and verified the receipt; it is not a finding or individual-remedy promise.
+- Preserved the subsequent refresh clarification: email-code signup returns the original access block; the human-verification message did not persist. Do not portray it as a second continuing barrier.

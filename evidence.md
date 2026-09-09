@@ -81,3 +81,17 @@ The matching `.ru` address being the actual trigger for `policy_denied` is an ev
 ## E-10 — September 9 phone password-signup screenshot
 
 Original retained privately, SHA-256 b1f117e920c40d62ef9b298235c6d3b07526b8169cb50804e770265a1bc01bf9, 246537 bytes. [Public transcription and route correction](mobile-signup-20260909.md). Shows the bot signup heading and access block, not a confirmed domain-policy cause or ordinary Cursor signup independent of Grok Bot. No claim this phone attempt was VPN-free.
+
+
+## E-11 — Email-code human-verification failure
+
+Private original: 246364 bytes, SHA-256 b2cdd763aa38a08e74128c07dfa80c9ecd2e2c255788aaf14f8baf623431fa5d. The new error is “Unable to verify the user is human.” Customer reports no displayed CAPTCHA and a working Gmail-created Cursor account. These do not establish a particular verification provider or email-domain rule. [Evidence and limits](mobile-signup-20260909.md).
+
+
+### E-11 follow-up
+
+After refresh, the customer reports email-code signup returned the original access block. The human-verification error was transient, not a second ongoing barrier; the customer suggests a timeout but server-side cause is unverified.
+
+## E-12 — FTC intake confirmation
+
+Official browser receipt and submitted narrative retained privately. Report submitted September 9, 2026. Intake only, not proof of an investigation or findings. A later refresh clarification is retained with the receipt.

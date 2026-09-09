@@ -47,6 +47,11 @@ All timestamps are UTC where a precise time is available. Private account addres
 
 | 2026-09-09 | Customer supplied phone signup screenshot and clarified never having had the matching-email Cursor account. Visible bot signup heading/error and supplied bot callback limit the claim: not proof of ordinary Cursor signup failure. | E-10 original retained privately with SHA-256; public transcription and route correction published. |
 
+| 2026-09-09, later phone attempt | Email-code signup displayed “Unable to verify the user is human.” Customer reports no visible CAPTCHA and an existing working Gmail-created Cursor account. | E-11 private original checksum; distinct error, cause unconfirmed. |
+
+| 2026-09-09 03:01 | FTC report submission confirmed in official browser; original Cursor case received the new signup evidence. | Private FTC receipt retained; Gmail Sent verified. No regulator finding or remedy claimed. |
+| 2026-09-09, after submission | Customer refreshed and requested an email code: original access block returned; human-verification error did not persist. | Customer report; transient verification state, timeout cause unverified. Dated supplement retained. |
+
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.

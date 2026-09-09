@@ -55,9 +55,14 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 
 - Preserved the new phone screenshot privately and published its SHA-256, selected-text transcription and bot-callback route correction. Never uploaded the private email or OAuth session URL.
 - Recorded the customer statement that the matching-email Cursor account has never existed.
-- Prepared consumer complaint narratives and inspected official intake routes. No agency submission or case number is claimed at this checkpoint.
+- Prepared consumer complaint narratives and inspected official intake routes. At that initial preparation checkpoint nothing had been filed; verified submissions are recorded below.
 
 - Recorded the later email-code verification failure as E-11 and the customer-reported working Gmail-account comparison. Original image and full account details remain private.
 
 - Sent the September 9 evidence update to the original Cursor case and verified it in Sent. Submitted a factual FTC consumer report and verified the receipt; it is not a finding or individual-remedy promise.
 - Preserved the subsequent refresh clarification: email-code signup returns the original access block; the human-verification message did not persist. Do not portray it as a second continuing barrier.
+
+- Sent the refresh clarification to the original Cursor case and verified it in Sent.
+- Submitted the refresh clarification as an FTC supplement explicitly referencing the initial report, as directed by its FAQ. Verified the browser receipt, displayed submitted narrative and email acknowledgement. This is one incident, not two claimed losses.
+- Sent a private written-evidence routing inquiry and follow-up to the local consumer-affairs office. A formal complaint has not been confirmed accepted.
+- Published and verified the public incident updates. Exact residency and other private details remain withheld.

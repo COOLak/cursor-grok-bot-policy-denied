@@ -96,7 +96,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-05 05:52 UTC.**
+**Unresolved as of 2026-09-09 03:40 UTC.**
 
 - Grok Bot access has not been verified working.
 - Cursor has not confirmed the precise backend reason for `policy_denied`.
@@ -104,7 +104,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the latest public check, Reddit showed 2.2K views and one substantive community reply; X showed 16 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- Public posts are live. At the September 9 public check, Reddit showed 3.1K views and one substantive community reply; X showed 36 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - Monitoring and evidence preservation continue every six hours.
 
 ## Anthropic-approach audit and functional parity

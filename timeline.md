@@ -31,19 +31,14 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-05 00:14 | After a forensic comparison against Anthropic mirror commit `58006ec`, the Cursor package added a parity audit, correction record, authentication-path audit, support-routing cluster, and regulator-ready attachment. | Public artifacts in this repository; preparation of the PDF is not evidence of filing. |
 | 2026-09-05 00:32-00:33 | Cursor's public SuperGrok linking guide and xAI's Grok Bot FAQ were verified and successfully preserved in two time-stamped Wayback captures. | First-party live pages plus neutral captures; the guide confirms individual Heavy eligibility, one-account permanence, and support routing but publishes no same-email or `.ru`-domain restriction. |
 | 2026-09-05 05:52 | Public-thread check recorded 2.2K Reddit views and 16 X views. | In-app browser inspection; the known community and automated-routing replies remain unchanged, and no human Cursor technical reply arrived. |
-
 | 2026-09-09 | Customer supplied phone signup screenshot and clarified never having had the matching-email Cursor account. Visible bot signup heading/error and supplied bot callback limit the claim: not proof of ordinary Cursor signup failure. | E-10 original retained privately with SHA-256; public transcription and route correction published. |
-
 | 2026-09-09, later phone attempt | Email-code signup displayed “Unable to verify the user is human.” Customer reports no visible CAPTCHA and an existing working Gmail-created Cursor account. | E-11 private original checksum; distinct error, cause unconfirmed. |
-
 | 2026-09-09 03:01 | FTC report submission confirmed in official browser; original Cursor case received the new signup evidence. | Private FTC receipt retained; Gmail Sent verified. No regulator finding or remedy claimed. |
 | 2026-09-09, after submission | Customer refreshed and requested an email code: original access block returned; human-verification error did not persist. | Customer report; transient verification state, timeout cause unverified. Dated supplement retained. |
-
 | 2026-09-09 03:03 | Sent the refresh clarification to the original Cursor case. | Gmail Sent verified. |
 | 2026-09-09 03:07–03:10 | Sent a written-evidence routing inquiry and private follow-up to a local consumer-affairs office. | Sent verified; no formal complaint acceptance claimed. |
 | 2026-09-09 03:10 | FTC received a linked supplement containing the refresh correction and referencing the original report. | Browser and email receipts verified; one incident, no new loss or finding. |
 | 2026-09-09 | Published the public incident updates. | Signed-in public articles and permanent links verified. |
-
 | 2026-09-09 05:55 | A local consumer-affairs office said it cannot negotiate directly purchased digital-service disputes with foreign sellers and referred the customer to a separate cross-border consumer-dispute service from September 14. | Full private reply read; routing response only, not complaint acceptance, finding or remedy. |
 
 ## Material correction history

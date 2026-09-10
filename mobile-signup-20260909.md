@@ -63,6 +63,6 @@ The [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8o
 
 The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership. See the [outreach record](press-outreach.html). No count-only broadcast was sent.
 
-## Evidence distribution checkpoint — 17:08 UTC
+## Evidence distribution checkpoint — September 10, 15:15 UTC
 
-The September 9 signup evidence page has been dispatched to 21 counted destinations: 16 new contacts across batches six through eight, plus five eligible earlier recipients. One additional attempted address bounced and is excluded. Of the original 48, one is excluded following an objection and 42 remain eligible for a staged addendum. Sent records establish dispatch, not inbox delivery or readership. See the [outreach record](press-outreach.html). One failed address was not counted; this bookkeeping was not rebroadcast.
+The September 9 signup evidence page has been dispatched to 26 counted destinations: 21 new contacts across batches six through nine, plus five eligible earlier recipients. One earlier failed address is excluded. Of the original 48, one is excluded following an objection and 42 remain eligible for a staged addendum. Sent records establish dispatch, not inbox delivery or readership. See the [outreach record](press-outreach.html). One failed address was not counted; this bookkeeping was not rebroadcast.

@@ -57,6 +57,7 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-09 06:46 | Batch seven added five new destinations at five new outlets: three named journalists and two editorial desks. Cumulative total 59 at 36 outlets. | Exact bodies and Sent records verified; no immediate bounce; no readership claim. |
 | 2026-09-09 06:47 | Five eligible earlier recipients received individual September 9 signup-evidence updates. | Sent verified; 16 destinations have received this addendum in total. Unique-contact count unchanged by these updates; objection excluded. |
 | 2026-09-09 17:03–17:06 | Batch eight added five counted destinations at five new outlets. One staff-address attempt bounced; one editorial-desk replacement was sent. Total 64 at 41 outlets. | Exact Sent bodies verified; permanent failure excluded. Two named editors and three desks counted; no readership claim. |
+| 2026-09-10 15:14 | Five new individual tips: four named reporters and one desk, at five outlets including two new outlets. Cumulative total 69 destinations at 43 outlets. | Exact Sent bodies verified; no immediate failure. September 9 evidence included. Prior objector and failed address excluded; no readership claim. |
 
 ## Material correction history
 

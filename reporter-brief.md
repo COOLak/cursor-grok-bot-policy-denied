@@ -69,3 +69,9 @@ As of 2026-09-05 05:52 UTC, individualized privacy-sanitized tips and material e
 ## September 9 signup evidence and route correction
 
 The customer reports never having had a Cursor account under the matching .ru address. A new phone password-signup attempt displayed “Create a Grok Bot account” and “Access blocked, please contact support.” The supplied route redirects to the bot callback: this is not proof of a separate ordinary Cursor signup failure. The .ru trigger is still unconfirmed. [Read the new evidence, original checksum and limitations](mobile-signup-20260909.md).
+
+## Outreach checkpoint — September 10, 21:21 UTC
+
+Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
+
+The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.

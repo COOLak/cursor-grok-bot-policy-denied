@@ -135,3 +135,9 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - Each note used the recipient’s actual beat, plain language, one evidence link and an unobtrusive AI-assistance disclosure. No demand for coverage, fake familiarity, CC/BCC, private residency detail or confirmed-domain-ban claim. Objections and known failures were excluded.
 - Original support, press and agency mail checks found no new reply. Internal-browser Reddit and X checks found no new substantive response or moderation change; view counts were 3.2K and 42 respectively. No new support, agency or social message was sent.
 - Keep exactly six-hour monitoring and one controlled future batch per run. This count-only record was not rebroadcast; access remains unresolved.
+
+## Outreach checkpoint — September 10, 21:21 UTC
+
+Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
+
+The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.

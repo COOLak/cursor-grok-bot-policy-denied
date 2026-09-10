@@ -66,3 +66,9 @@ All timestamps are UTC where a precise time is available. Private account addres
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.
+
+## Outreach checkpoint — September 10, 21:21 UTC
+
+Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
+
+The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.

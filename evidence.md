@@ -115,3 +115,9 @@ Batch eight added five counted destinations at five new outlets: two named edito
 ## September 10, 15:15 UTC — dispatch verification
 
 Batch nine sent five separate, tailored notes on September 10 at 15:14 UTC: four named reporters and one tips desk, across five outlets including two new outlets. Exact recipients, subjects, bodies and Sent labels were verified; no immediate failure was found. Total: 69 counted destinations at 43 outlets; one earlier failed address remains excluded. Private receipts retain exact messages and public contact-source checks. The September 9 signup evidence page has been dispatched to 26 counted destinations: 21 new contacts across batches six through nine, plus five eligible earlier recipients. One earlier failed address is excluded. Of the original 48, one is excluded following an objection and 42 remain eligible for a staged addendum. Sent records establish dispatch, not inbox delivery or readership. No independent coverage or vendor remedy is claimed.
+
+## Outreach checkpoint — September 10, 21:21 UTC
+
+Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
+
+The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.

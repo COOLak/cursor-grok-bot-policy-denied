@@ -44,24 +44,19 @@ All timestamps are UTC where a precise time is available. Private account addres
 | 2026-09-05 00:47-00:48 | Material snapshot `38bfe8c`, including the neutral archives and public-guidance reconciliation, was sent individually to all 48 current press recipients. | Private Gmail sent records; tracking-marker verification found 48 messages to 48 distinct destinations and no immediate delivery-failure candidate. |
 | 2026-09-05 01:59 | A human journalist replied with a public essay objecting to AI-written pitches. | Private reply and public essay inspected; classified as an outreach-method objection, not coverage or incident corroboration. The correspondent's identity and contact details remain private. |
 | 2026-09-05 05:52 | Public-thread check recorded 2.2K Reddit views and 16 X views. New AI-authored cold outreach was paused pending a transparent composition-method decision. | In-app browser inspection; the known community and automated-routing replies remain unchanged, and no human Cursor technical reply arrived. |
-
 | 2026-09-09 | Customer supplied phone signup screenshot and clarified never having had the matching-email Cursor account. Visible bot signup heading/error and supplied bot callback limit the claim: not proof of ordinary Cursor signup failure. | E-10 original retained privately with SHA-256; public transcription and route correction published. |
-
 | 2026-09-09, later phone attempt | Email-code signup displayed “Unable to verify the user is human.” Customer reports no visible CAPTCHA and an existing working Gmail-created Cursor account. | E-11 private original checksum; distinct error, cause unconfirmed. |
-
 | 2026-09-09 03:01 | FTC report submission confirmed in official browser; original Cursor case received the new signup evidence. | Private FTC receipt retained; Gmail Sent verified. No regulator finding or remedy claimed. |
 | 2026-09-09, after submission | Customer refreshed and requested an email code: original access block returned; human-verification error did not persist. | Customer report; transient verification state, timeout cause unverified. Dated supplement retained. |
-
 | 2026-09-09 03:03 | Sent the refresh clarification to the original Cursor case. | Gmail Sent verified. |
 | 2026-09-09 03:07–03:10 | Sent a written-evidence routing inquiry and private follow-up to a local consumer-affairs office in Japan. | Sent verified; no formal complaint acceptance claimed. |
 | 2026-09-09 03:10 | FTC received a linked supplement containing the refresh correction and referencing the original report. | Browser and email receipts verified; one incident, no new loss or finding. |
 | 2026-09-09 | Published the [Reddit update](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p8ocwis/) and [X update](https://x.com/Coolak777/status/2097524420579570096). | Signed-in public articles and permanent links verified. |
-
 | 2026-09-09 03:38–03:39 | Resumed press outreach with six tailored, explicitly AI-assisted notes: five named journalists and one tips desk. Campaign total 54 destinations at 31 outlets. | Six Sent records verified; no immediate bounce found. September 9 evidence page included; no count-only rebroadcast or claim of readership. |
-
 | 2026-09-09 05:55 | A local consumer-affairs office in Japan said it cannot negotiate directly purchased digital-service disputes with overseas sellers and referred the customer to CCJ from September 14. | Full private reply read; routing response only, not complaint acceptance, finding or remedy. |
 | 2026-09-09 06:46 | Batch seven added five new destinations at five new outlets: three named journalists and two editorial desks. Cumulative total 59 at 36 outlets. | Exact bodies and Sent records verified; no immediate bounce; no readership claim. |
 | 2026-09-09 06:47 | Five eligible earlier recipients received individual September 9 signup-evidence updates. | Sent verified; 16 destinations have received this addendum in total. Unique-contact count unchanged by these updates; objection excluded. |
+| 2026-09-09 17:03–17:06 | Batch eight added five counted destinations at five new outlets. One staff-address attempt bounced; one editorial-desk replacement was sent. Total 64 at 41 outlets. | Exact Sent bodies verified; permanent failure excluded. Two named editors and three desks counted; no readership claim. |
 
 ## Material correction history
 

@@ -116,3 +116,10 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 - At approximately 06:47 UTC, sent five individual material evidence updates to eligible earlier recipients after checking incoming mail and prior distribution. All were Sent-verified. The objector was not contacted.
 - The September 9 signup evidence page has been sent to 16 destinations: 11 new contacts across batches six and seven, and five eligible earlier recipients. Of the original 48, 43 have not received this addendum; one is excluded following an objection, leaving 42 eligible recipients for staged distribution. Sent records establish dispatch, not inbox delivery or readership.
 - No count-only broadcast. The six-hour cadence and privacy boundaries remain in force; the underlying access issue is unresolved.
+
+## September 9, 17:08 UTC — considerate outreach batch eight
+
+- Batch eight added five counted destinations at five new outlets: two named editors and three editorial desks. One published staff address returned a permanent delivery failure and was excluded; the outlet's published editorial desk was used once instead. All counted notes were verified in Sent, with explicit AI-assistance disclosure and the September 9 evidence link. Total: 64 counted destinations at 41 outlets, with one recorded failed address.
+- The September 9 signup evidence page has been dispatched to 21 counted destinations: 16 new contacts across batches six through eight, plus five eligible earlier recipients. One additional attempted address bounced and is excluded. Of the original 48, one is excluded following an objection and 42 remain eligible for a staged addendum. Sent records establish dispatch, not inbox delivery or readership.
+- New notes used plain language, documented outlet relevance, one evidence link and no demand for coverage. Prior unrelated correspondence was acknowledged where applicable.
+- The six-hour cadence remains unchanged. No new support demand, agency filing or social post was sent. Public-thread inspection could not be refreshed because internal-browser control timed out; earlier view counts are historical, not a new observation.

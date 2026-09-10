@@ -1,5 +1,9 @@
 # Incident timeline
 
+## Latest support response — September 10, 20:57 UTC
+
+[Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
+
 All timestamps are UTC where a precise time is available. Private account addresses and the private support-ticket identifier are intentionally omitted.
 
 | Date and time | Event | Evidence status |

@@ -1,5 +1,9 @@
 # Reporter brief: paid SuperGrok Heavy benefit blocked in Cursor
 
+## Latest support response — September 10, 20:57 UTC
+
+[Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
+
 ## The story in one paragraph
 
 A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization request through the X/xAI identity provider, but Cursor's callback returns `policy_denied` and Grok Bot displays “Access blocked, please contact support.” Cursor says the SuperGrok and Cursor emails must match and that links are permanent. The subscriber is willing to create the required new personal Cursor account using the matching `.ru` address, but that path remains blocked. xAI routes support responsibility to Cursor; Cursor closed the transferred request as a duplicate of the original unresolved case. No vendor has identified the precise backend rule, supplied a working path, or documented a billing remedy.

@@ -3,7 +3,7 @@
   "incident": "SuperGrok Heavy to Cursor Grok Bot linking policy_denied",
   "status": "unresolved",
   "opened_at_utc": "2026-08-16T17:42:16Z",
-  "last_updated_at_utc": "2026-09-10T15:15:00Z",
+  "last_updated_at_utc": "2026-09-10T21:15:29Z",
   "error_code": "policy_denied",
   "visible_error": "Access blocked, please contact support.",
   "paid_plan": "SuperGrok Heavy",
@@ -41,7 +41,7 @@
   "press_target": 100,
   "monitor_interval_hours": 6,
   "resolution_requires_live_verification": true,
-  "latest_evidence": "E-10 persistent signup denial; E-11 transient verification error cleared on refresh",
+  "latest_evidence": "September 10 support response and usage-grant clarification",
   "matching_email_cursor_account_ever_existed_user_report": false,
   "ordinary_cursor_signup_independent_of_bot_verified": false,
   "mobile_signup_email_domain_cause_confirmed": false,
@@ -81,5 +81,10 @@
   "public_press_attempted_destinations": 70,
   "public_press_recorded_delivery_failures": 1,
   "latest_press_batch_attempted_destinations": 5,
-  "latest_press_batch_failed_destinations": 0
+  "latest_press_batch_failed_destinations": 0,
+  "latest_support_reply_at_utc": "2026-09-10T20:57:34Z",
+  "latest_support_reply_summary": "Use existing different-email free login; Heavy cannot attach there; matching .ru login cannot be created from this ticket. Usage grant remains unresolved; domain policy unconfirmed.",
+  "latest_support_followup_sent_at_utc": "2026-09-10T21:15:29Z",
+  "latest_material_update_page": "support-response-20260910.html",
+  "september10_support_update_notified_recipients": 0
 }

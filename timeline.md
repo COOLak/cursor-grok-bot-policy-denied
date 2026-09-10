@@ -48,3 +48,4 @@ All timestamps are UTC where a precise time is available. Private account addres
 ## Material correction history
 
 The initial support framing treated the existing non-`.ru` Cursor account as the target. On September 3, the customer withdrew that requirement and confirmed that a new matching-`.ru` personal Cursor account is acceptable. Any summary that says the customer insists on linking the benefit to the earlier account is inaccurate.
+

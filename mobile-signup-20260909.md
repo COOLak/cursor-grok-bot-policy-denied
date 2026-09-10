@@ -1,5 +1,9 @@
 # September 9: the matching-email signup attempt also fails
 
+## Latest support response — September 10, 20:57 UTC
+
+[Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
+
 Published 2026-09-09 UTC. The incident remains unresolved.
 
 The customer reports never having had a Cursor account under the `.ru` address used by the paid X/xAI identity. Creating a new personal account with that matching address is acceptable; keeping the earlier non-matching Cursor account is not a requirement.

@@ -1,5 +1,9 @@
 # Evidence and limitations register
 
+## Latest support response — September 10, 20:57 UTC
+
+[Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
+
 ## E-01 — xAI plan announcement
 
 **Public source:** https://x.ai/news/grok-bot-more-plans

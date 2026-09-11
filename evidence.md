@@ -121,3 +121,11 @@ Batch nine sent five separate, tailored notes on September 10 at 15:14 UTC: four
 Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
 
 The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.
+
+## Outreach checkpoint — September 11, 03:20 UTC
+
+Batch eleven sent three separate notes to named technology writers at 03:18 UTC on September 11, including two new independent outlets. The roughly 170-word notes used verified editorial relevance, one current evidence link and explicit AI-assistance disclosure. Exact recipients, subjects, bodies and Sent labels were verified. Total: 76 counted destinations at 49 outlets; one earlier failed address remains excluded.
+
+Five eligible earlier contacts also received one brief, individual update containing the September 10 support response. The current material has now been dispatched to 12 destinations: seven new contacts and five earlier recipients. There are 63 eligible earlier recipients still awaiting this staged update. The previous objector and failed address remain excluded. These follow-ups do not increase the unique-contact total, and dispatch is not proof of readership or coverage.
+
+September 11 checks found no newer support, press or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours.

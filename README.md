@@ -114,8 +114,8 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the September 10 public check, Reddit showed 3.2K views and one substantive community reply; X showed 42 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
-- A staged press campaign has 73 counted Sent-verified destinations at 47 outlets. One failed address is excluded from those totals.
+- Public posts are live. At the September 11 public check, Reddit showed 3.3K views and one substantive community reply; X showed 43 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- A staged press campaign has 76 counted Sent-verified destinations at 49 outlets. One failed address is excluded from those totals.
 - One human journalist replied with a public essay objecting to AI-written pitches. That is an outreach-method objection, not coverage or technical corroboration. On September 9, outreach resumed with individually researched notes explicitly disclosing AI assistance; the correspondent who objected was not contacted again.
 - The earlier 48 received the historical hub, reporter brief and timeline. The September 9 signup evidence page has been dispatched to 26 counted destinations: 21 new contacts across batches six through nine, plus five eligible earlier recipients. One earlier failed address is excluded. Of the original 48, one is excluded following an objection and 42 remain eligible for a staged addendum. Sent records establish dispatch, not inbox delivery or readership.
 - On September 5, material snapshot `38bfe8c` was sent individually to all 48 then-current press recipients; marker verification found 48 distinct destinations and no immediate delivery failure.
@@ -124,7 +124,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Media-outreach record
 
-Current total: **73 counted Sent-verified destinations at 47 outlets**. The dated paragraphs below preserve earlier checkpoints. New outlets in batch ten: Fortune, The Guardian, Observer and Semafor.
+Current total: **76 counted Sent-verified destinations at 49 outlets**. The dated paragraphs below preserve earlier checkpoints. New outlets in batch ten: Fortune, The Guardian, Observer and Semafor.
 
 The Anthropic incident mirror did **not** publish a journalist roster or a numeric press-recipient total. Its public incident brief says only that privacy-sanitized tips went to “several relevant outlets.” It names Future Stack Reviews only after independent coverage appeared, not as a campaign roster. The full finding and private-mail cross-check are documented in the [`anthropic-approach-audit`](anthropic-approach-audit.md).
 
@@ -241,3 +241,11 @@ The public record preserves dates, roles, technical outcomes, corrections, vendo
 Batch ten sent four separate notes at 21:19 UTC on September 10: three named journalists and one technology desk, all at new outlets. Exact recipients, subjects, bodies and Sent labels were verified. Total: 73 counted destinations at 47 outlets; one earlier failed address remains excluded. Each note was about 160 words, offered a specific editorial reason and one current evidence link, and disclosed AI assistance without pressure.
 
 The September 10 support-response page was dispatched to four new destinations. There are 68 eligible earlier destinations for a staged, one-time material update; the prior objector and failed address remain excluded. The September 9-only distribution checkpoint remains 26 destinations, with 42 earlier eligible recipients then pending. Future combined updates should use the current page, which links that earlier evidence. Dispatch is not inbox delivery, readership or coverage.
+
+## Outreach checkpoint — September 11, 03:20 UTC
+
+Batch eleven sent three separate notes to named technology writers at 03:18 UTC on September 11, including two new independent outlets. The roughly 170-word notes used verified editorial relevance, one current evidence link and explicit AI-assistance disclosure. Exact recipients, subjects, bodies and Sent labels were verified. Total: 76 counted destinations at 49 outlets; one earlier failed address remains excluded.
+
+Five eligible earlier contacts also received one brief, individual update containing the September 10 support response. The current material has now been dispatched to 12 destinations: seven new contacts and five earlier recipients. There are 63 eligible earlier recipients still awaiting this staged update. The previous objector and failed address remain excluded. These follow-ups do not increase the unique-contact total, and dispatch is not proof of readership or coverage.
+
+September 11 checks found no newer support, press or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours.

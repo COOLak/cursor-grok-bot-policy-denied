@@ -108,7 +108,7 @@ This correction was sent to Cursor in writing on September 3, 2026.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
 - Cursor's promised response window expired; a one-time follow-up at 2026-09-04 23:52 UTC demanded a named owner, exact rule, supported matching-`.ru` path, firm ETA, or billing remedy.
-- Public posts are live. At the September 10 public check, Reddit showed 3.2K views and one substantive community reply; X showed 42 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
+- Public posts are live. At the September 11 public check, Reddit showed 3.3K views and one substantive community reply; X showed 43 views and one external automated Grok routing reply. Neither reply is treated as a vendor resolution or technical finding.
 - At 05:55 UTC on September 9, a local consumer-affairs office replied that it cannot negotiate with foreign sellers over directly purchased digital services. It referred the customer to a separate cross-border consumer-dispute service from September 14. This is a routing response, not complaint acceptance, a finding against either vendor, or a remedy.
 - Monitoring and evidence preservation continue every six hours.
 
@@ -168,3 +168,6 @@ The public record preserves dates, roles, technical outcomes, corrections, vendo
 - Material corrections are preserved rather than silently rewritten.
 - New evidence, vendor replies, public actions, and resolution tests will be appended with UTC timestamps.
 
+## Monitoring checkpoint — September 11, 03:20 UTC
+
+September 11 checks found no newer support or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours.

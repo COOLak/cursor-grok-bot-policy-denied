@@ -3,7 +3,7 @@
   "incident": "SuperGrok Heavy to Cursor Grok Bot linking policy_denied",
   "status": "unresolved",
   "opened_at_utc": "2026-08-16T17:42:16Z",
-  "last_updated_at_utc": "2026-09-10T21:21:00Z",
+  "last_updated_at_utc": "2026-09-11T03:20:00Z",
   "error_code": "policy_denied",
   "visible_error": "Access blocked, please contact support.",
   "paid_plan": "SuperGrok Heavy",
@@ -22,8 +22,8 @@
   "cursor_linking_guide_verified_at_utc": "2026-09-05T00:31:00Z",
   "neutral_first_party_archives": 2,
   "neutral_archive_latest_at_utc": "2026-09-05T00:33:34Z",
-  "reddit_views_latest": 3200,
-  "x_primary_post_views_latest": 42,
+  "reddit_views_latest": 3300,
+  "x_primary_post_views_latest": 43,
   "monitor_interval_hours": 6,
   "resolution_requires_live_verification": true,
   "latest_evidence": "September 10 support response and usage-grant clarification",
@@ -52,5 +52,7 @@
   "latest_support_reply_at_utc": "2026-09-10T20:57:34Z",
   "latest_support_reply_summary": "Use existing different-email free login; Heavy cannot attach there; matching .ru login cannot be created from this ticket. Usage grant remains unresolved; domain policy unconfirmed.",
   "latest_support_followup_sent_at_utc": "2026-09-10T21:15:29Z",
-  "latest_material_update_page": "support-response-20260910.html"
+  "latest_material_update_page": "support-response-20260910.html",
+  "latest_social_check_at_utc": "2026-09-11T03:09:00Z",
+  "latest_mail_monitor_result": "September 11 checks found no newer support or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours."
 }

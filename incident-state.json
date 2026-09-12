@@ -3,7 +3,7 @@
   "incident": "SuperGrok Heavy to Cursor Grok Bot linking policy_denied",
   "status": "unresolved",
   "opened_at_utc": "2026-08-16T17:42:16Z",
-  "last_updated_at_utc": "2026-09-12T03:14:13.356Z",
+  "last_updated_at_utc": "2026-09-12T09:30:00Z",
   "error_code": "policy_denied",
   "visible_error": "Access blocked, please contact support.",
   "paid_plan": "SuperGrok Heavy",
@@ -54,7 +54,9 @@
   "latest_support_followup_sent_at_utc": "2026-09-12T03:04:40Z",
   "latest_material_update_page": "support-correction-20260911.html",
   "latest_social_check_at_utc": "2026-09-12T03:04:00Z",
-  "latest_mail_monitor_result": "September 12: one new substantive Cursor reply, a factual clarification Sent-verified in the original case and four substantive corrections verified. No new agency reply or immediate bounce. Other social replies unchanged; a Reddit correction was posted and verified. An X submission remains unconfirmed and must not be blindly retried. No account changes or new entitlement test.",
+  "latest_mail_monitor_result": "The full original Cursor thread and incoming support, agency and delivery-failure checks found no new reply or failure. In-app browser reads timed out, including the supported alternate visible-page reader, so no fresh Reddit/X content inspection or post is claimed. The earlier X submission remains unconfirmed and was not retried. No support demand, agency filing, account change or entitlement test was performed. Access remains unresolved.",
   "domain_cause_evidence_level": "Explicit Cursor support attribution in this case; no independent backend trace or universal policy established",
-  "latest_x_submission_status": "Submitted once; pending, not yet verified published"
+  "latest_x_submission_status": "Submitted once; pending, not yet verified published",
+  "latest_social_check_attempt_at_utc": "2026-09-12T09:25:00Z",
+  "latest_social_check_attempt_status": "In-app browser page reads timed out; no fresh inspection or social publication verified"
 }

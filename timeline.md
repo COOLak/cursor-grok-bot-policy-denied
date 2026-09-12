@@ -2,7 +2,7 @@
 
 > **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
-## Latest support response — September 10, 20:57 UTC
+## Historical support response — September 10, 20:57 UTC (superseded September 11)
 
 [Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
 
@@ -59,3 +59,6 @@ September 11 checks found no newer support or agency reply and no new delivery f
 
 September 11, 13:48 UTC: Cursor attributes this case to a .ru domain restriction and retracts the earlier same-email requirement. September 12, 03:04 UTC: one factual reply asks for the exact X-authenticated procedure, a route without changing the email, and safeguards for the permanent target. Sent verified. No account changed or retry result claimed. [Current correction](support-correction-20260911.html).
 
+## September 12, 09:30 UTC: monitoring checkpoint
+
+The full original Cursor thread and incoming support, agency and delivery-failure checks found no new reply or failure. In-app browser reads timed out, including the supported alternate visible-page reader, so no fresh Reddit/X content inspection or post is claimed. The earlier X submission remains unconfirmed and was not retried. No support demand, agency filing, account change or entitlement test was performed. Access remains unresolved.

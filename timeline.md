@@ -58,3 +58,4 @@ September 11 checks found no newer support or agency reply and no new delivery f
 ## September 11-12: corrected domain explanation
 
 September 11, 13:48 UTC: Cursor attributes this case to a .ru domain restriction and retracts the earlier same-email requirement. September 12, 03:04 UTC: one factual reply asks for the exact X-authenticated procedure, a route without changing the email, and safeguards for the permanent target. Sent verified. No account changed or retry result claimed. [Current correction](support-correction-20260911.html).
+

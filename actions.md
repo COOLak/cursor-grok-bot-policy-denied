@@ -82,3 +82,7 @@ This log records actions taken to diagnose, resolve, document, and escalate the 
 ## Monitoring checkpoint — September 11, 03:20 UTC
 
 September 11 checks found no newer support or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours.
+
+### Public discussion correction
+
+A public correction was posted and freshly verified September 12. It states the new vendor attribution and withdrawn matching-email advice, while distinguishing a proposed email change from a fix. One X reply was attempted; publication was not confirmed and it was not resent. No regulator submission or account change occurred in this run.

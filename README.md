@@ -2,7 +2,7 @@
 
 > **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
-## Latest support response — September 10, 20:57 UTC
+## Historical support response — September 10, 20:57 UTC (superseded September 11)
 
 [Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.
 
@@ -256,4 +256,12 @@ September 11 checks found no newer support, press or agency reply and no new del
 
 Two new, separately researched notes were sent to named technology journalists on September 12 at 03:10 UTC, including one new outlet. Each was 166 words, included one current evidence link and disclosed AI assistance. The freelance recipient was identified privately as a contributor, not a staff reporter. Four earlier recipients received a concise correction in their existing threads. Every exact recipient, subject, body and Sent label was verified. No immediate delivery failure was found. Sent is dispatch, not readership or coverage.
 
-Current totals: 78 counted destinations at 50 outlets, 79 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has six distinct dispatches: two new contacts and four earlier recipients. Of 75 eligible earlier contacts, 71 remain for staged one-time correction. The old September 10-only queue is superseded; do not stack stale updates or rebroadcast count-only changes.
+As of September 12, 03:17 UTC: 78 counted destinations at 50 outlets, 79 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has six distinct dispatches: two new contacts and four earlier recipients. Of 75 eligible earlier contacts, 71 remain for staged one-time correction. The old September 10-only queue is superseded; do not stack stale updates or rebroadcast count-only changes.
+
+## September 12, 09:30 UTC: batch thirteen
+
+Batch thirteen sent three individually researched notes on September 12 at 09:27 UTC: two named independent technology/AI writers and one editorial tips desk, at three additional outlets. Each included one current evidence link, an optional question and explicit AI-assistance disclosure. Four eligible earlier recipients received a factual correction in their existing incident threads. All seven exact bodies, recipients, subjects and Sent labels were verified; no immediate failure was found. Dispatch is not inbox delivery, readership or coverage.
+
+Current totals: 81 counted destinations at 53 outlets, 82 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has 13 distinct dispatches: five new contacts and eight earlier recipients. Of 75 eligible earlier contacts, 67 remain for staged one-time correction. Older September 9/10-only update queues are superseded, not additional messages to send.
+
+The full original Cursor thread and incoming support, press, agency and delivery-failure checks found no new reply or failure. In-app browser reads timed out, including the supported alternate visible-page reader, so no fresh Reddit/X content inspection or post is claimed. The earlier X submission remains unconfirmed and was not retried. No support demand, agency filing, account change or entitlement test was performed. Access remains unresolved.

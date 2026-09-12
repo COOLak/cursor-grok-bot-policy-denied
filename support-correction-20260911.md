@@ -2,6 +2,14 @@
 
 Updated September 12, 2026. Access remains unresolved; no account or subscription was changed.
 
+## September 12: preserving the legacy email is a firm requirement
+
+The customer clarified that the long-standing email address is part of their personal history and must remain unchanged, together with the existing X-authenticated Grok identity and paid Heavy subscription. A new matching personal Cursor account is still acceptable; retaining the existing Gmail-created Cursor account is not required.
+
+At 10:51 UTC on September 12, a clarification was verified in Sent in the original support case. It states that the earlier request for email-change instructions was not consent to change the address, asks the responsible technical team for a supported activation path without changing it, and requests a written explanation and responsible remedy contact if no such path is available. There is no subsequent support agreement or verified fix in this update.
+
+This is a customer requirement, not new technical evidence or a claim that a domain-preserving remedy has been confirmed. The earlier 03:04 UTC follow-up below is retained as dated correspondence; it is not the current requested email-change plan.
+
 ## What changed
 
 At 13:48 UTC on September 11, Cursor support replied in the original case. It apologized for the confusion, said the Heavy benefit **can attach to the existing Gmail-created Cursor account even when the account emails differ**, and attributed this customer's failure to a **domain restriction on the .ru address**.
@@ -34,7 +42,6 @@ No email address, account, subscription or permanent link was changed. No fresh 
 
 ## Current limits and next step
 
-Obtain a precise, safe supported procedure for the existing X-authenticated paid identity, then verify live sign-in and the actual usage grant before declaring success. No broader affected-user pattern, regulatory finding or independent press coverage has been verified.
+Obtain a supported procedure that preserves the existing X-authenticated paid identity, its legacy email address and subscription, then verify live sign-in and the actual usage grant before declaring success. No broader affected-user pattern, regulatory finding or independent press coverage has been verified.
 
 This page paraphrases private correspondence. Original messages and exact Sent receipts are held privately. Account emails, ticket and message identifiers, authentication-session values and sensitive personal information are not public.
-

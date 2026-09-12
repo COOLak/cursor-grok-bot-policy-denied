@@ -1,6 +1,6 @@
 # Action log
 
-> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. On September 12, the customer clarified that the long-standing email and X-authenticated Grok identity must remain unchanged; changing the address is not an acceptable resolution. No supported remedy has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
 ## Historical support response — September 10, 20:57 UTC (superseded September 11)
 
@@ -169,3 +169,9 @@ Batch thirteen sent three individually researched notes on September 12 at 09:27
 Current totals: 81 counted destinations at 53 outlets, 82 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has 13 distinct dispatches: five new contacts and eight earlier recipients. Of 75 eligible earlier contacts, 67 remain for staged one-time correction. Older September 9/10-only update queues are superseded, not additional messages to send.
 
 The full original Cursor thread and incoming support, press, agency and delivery-failure checks found no new reply or failure. In-app browser reads timed out, including the supported alternate visible-page reader, so no fresh Reddit/X content inspection or post is claimed. The earlier X submission remains unconfirmed and was not retried. No support demand, agency filing, account change or entitlement test was performed. Access remains unresolved.
+
+## September 12, 10:51 UTC — legacy-email requirement clarified
+
+The customer requires the long-standing email address and existing X-authenticated paid Grok identity to remain unchanged. A new matching personal Cursor account is still acceptable. One clarification was Sent-verified in the original support case: the earlier request for email-change steps was not consent to an email-change workaround. The customer requests a supported path preserving the address, or a written explanation and responsible remedy contact if unavailable. No account change, new retry or verified remedy occurred. [Read the current requirement](support-correction-20260911.html#legacy-email).
+
+The six-hour watcher and future correspondence must follow this requirement. No additional press mail, social post or agency filing was sent for this clarification; outreach totals and earlier dispatch receipts are unchanged.

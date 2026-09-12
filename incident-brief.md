@@ -1,6 +1,6 @@
 # Public incident brief
 
-> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. On September 12, the customer clarified that the long-standing email and X-authenticated Grok identity must remain unchanged; changing the address is not an acceptable resolution. No supported remedy has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
 ## Core issue
 

@@ -1,6 +1,6 @@
 # Anthropic-mirror approach audit and Cursor adaptation
 
-> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. On September 12, the customer clarified that the long-standing email and X-authenticated Grok identity must remain unchanged; changing the address is not an acceptable resolution. No supported remedy has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
 Audit date: **2026-09-05 UTC**  
 Reference snapshot: [`COOLak/anthropic-claude-billing-incident` at `58006ec`](https://github.com/COOLak/anthropic-claude-billing-incident/commit/58006eca65f03295166fc2e1013f2a633d1a066c)

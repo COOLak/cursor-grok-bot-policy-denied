@@ -151,3 +151,13 @@ Batch eleven sent three separate notes to named technology writers at 03:18 UTC 
 Five eligible earlier contacts also received one brief, individual update containing the September 10 support response. The current material has now been dispatched to 12 destinations: seven new contacts and five earlier recipients. There are 63 eligible earlier recipients still awaiting this staged update. The previous objector and failed address remain excluded. These follow-ups do not increase the unique-contact total, and dispatch is not proof of readership or coverage.
 
 September 11 checks found no newer support, press or agency reply and no new delivery failure. In-app Reddit and X inspections found no new substantive response or moderation change; the displayed view counts were 3.3K and 43 respectively. No new support, agency or social message was sent. Access remains unresolved; checks continue every six hours.
+
+## September 12 outreach checkpoint
+
+Two new, separately researched notes were sent to named technology journalists on September 12 at 03:10 UTC, including one new outlet. Each was 166 words, included one current evidence link and disclosed AI assistance. The freelance recipient was identified privately as a contributor, not a staff reporter. Four earlier recipients received a concise correction in their existing threads. Every exact recipient, subject, body and Sent label was verified. No immediate delivery failure was found. Sent is dispatch, not readership or coverage.
+
+Current totals: 78 counted destinations at 50 outlets, 79 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has six distinct dispatches: two new contacts and four earlier recipients. Of 75 eligible earlier contacts, 71 remain for staged one-time correction. The old September 10-only queue is superseded; do not stack stale updates or rebroadcast count-only changes.
+
+### Public discussion correction
+
+[Reddit correction](https://www.reddit.com/r/cursor/comments/1w6p3gi/comment/p9a8l1g/) posted and freshly verified September 12. It states the new vendor attribution and withdrawn matching-email advice, while distinguishing a proposed email change from a fix. One X reply was attempted; publication was not confirmed and it was not resent. No regulator submission or account change occurred in this run.

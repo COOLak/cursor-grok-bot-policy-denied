@@ -86,3 +86,9 @@ September 11 checks found no newer support, press or agency reply and no new del
 ## September 11-12: corrected domain explanation
 
 September 11, 13:48 UTC: Cursor attributes this case to a .ru domain restriction and retracts the earlier same-email requirement. September 12, 03:04 UTC: one factual reply asks for the exact X-authenticated procedure, a route without changing the email, and safeguards for the permanent target. Sent verified. No account changed or retry result claimed. [Current correction](support-correction-20260911.html).
+
+## September 12 outreach checkpoint
+
+Two new, separately researched notes were sent to named technology journalists on September 12 at 03:10 UTC, including one new outlet. Each was 166 words, included one current evidence link and disclosed AI assistance. The freelance recipient was identified privately as a contributor, not a staff reporter. Four earlier recipients received a concise correction in their existing threads. Every exact recipient, subject, body and Sent label was verified. No immediate delivery failure was found. Sent is dispatch, not readership or coverage.
+
+Current totals: 78 counted destinations at 50 outlets, 79 attempted addresses and one earlier permanent failure excluded. The September 11 support correction has six distinct dispatches: two new contacts and four earlier recipients. Of 75 eligible earlier contacts, 71 remain for staged one-time correction. The old September 10-only queue is superseded; do not stack stale updates or rebroadcast count-only changes.

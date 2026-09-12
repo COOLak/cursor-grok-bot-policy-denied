@@ -1,5 +1,7 @@
 # Cursor/xAI Grok Bot support-routing cluster
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Evidence boundary
 
 This record summarizes authenticated support outcomes while withholding ticket identifiers, message identifiers, account addresses, and raw correspondence. It proves the observed routing sequence, not either vendor's internal ownership model.
@@ -27,4 +29,3 @@ This record summarizes authenticated support outcomes while withholding ticket i
 ## What it does not establish
 
 The cluster does not prove which internal service enforces `policy_denied`, that `.ru` is intentionally disallowed, that either vendor acted unlawfully, or that no internal investigation exists. Those conclusions require vendor records or an on-record technical response.
-

@@ -1,5 +1,7 @@
 # SuperGrok Heavy / Cursor Grok Bot `policy_denied` incident
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Latest support response — September 10, 20:57 UTC
 
 [Cursor has replied, but no working usage-grant path has been verified](support-response-20260910.html). The response rejects linking the different-email account and says the matching login cannot be created from this ticket. This does not confirm a blanket domain ban. One factual clarification was sent in the original case.

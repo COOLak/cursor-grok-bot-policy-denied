@@ -1,5 +1,7 @@
 # Public source matrix
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 | Source | Class | What it establishes | What it does not establish |
 |---|---|---|---|
 | [xAI Grok Bot plan announcement](https://x.ai/news/grok-bot-more-plans) | First-party public | SuperGrok Heavy is publicly listed among plans that include Grok Bot. | This customer's entitlement state or an email-domain restriction. |

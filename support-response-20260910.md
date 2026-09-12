@@ -1,5 +1,7 @@
 # September 10: Cursor replies, but the included Grok Bot benefit remains unresolved
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 Cursor replied in the original support case at **20:57 UTC on September 10, 2026**. This page summarizes the response; the original correspondence and account identifiers remain private.
 
 ## What Cursor said

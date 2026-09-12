@@ -1,5 +1,7 @@
 # Grok Bot access reconciliation matrix
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 | Observed state | System or owner to inspect | Evidence available | Required answer | Resolution test |
 |---|---|---|---|---|
 | SuperGrok Heavy is paid and publicly listed as including Grok Bot | xAI plan and entitlement service | Public announcement, Cursor linking guide, neutral archive captures; private subscription proof | Is this identity entitled, and what restrictions apply? | Entitlement is accepted by Cursor or a documented billing remedy is provided. |

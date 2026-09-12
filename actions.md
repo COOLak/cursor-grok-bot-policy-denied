@@ -1,6 +1,6 @@
 # Action log
 
-> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. On September 12, the customer clarified that the long-standing email and X-authenticated Grok identity must remain unchanged; changing the address is not an acceptable resolution. No supported remedy has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
 
 ## Historical support response — September 10, 20:57 UTC (superseded September 11)
 
@@ -90,3 +90,9 @@ A public correction was posted and freshly verified September 12. It states the 
 ## September 12, 09:30 UTC: monitoring checkpoint
 
 The full original Cursor thread and incoming support, agency and delivery-failure checks found no new reply or failure. In-app browser reads timed out, including the supported alternate visible-page reader, so no fresh Reddit/X content inspection or post is claimed. The earlier X submission remains unconfirmed and was not retried. No support demand, agency filing, account change or entitlement test was performed. Access remains unresolved.
+
+## September 12, 10:51 UTC — legacy-email requirement clarified
+
+The customer requires the long-standing email address and existing X-authenticated paid Grok identity to remain unchanged. A new matching personal Cursor account is still acceptable. One clarification was Sent-verified in the original support case: the earlier request for email-change steps was not consent to an email-change workaround. The customer requests a supported path preserving the address, or a written explanation and responsible remedy contact if unavailable. No account change, new retry or verified remedy occurred. [Read the current requirement](support-correction-20260911.html#legacy-email).
+
+The six-hour watcher and future correspondence must follow this requirement. No additional social post or agency filing was sent for this clarification.

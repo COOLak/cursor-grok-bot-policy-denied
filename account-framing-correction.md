@@ -1,6 +1,10 @@
 # Correction: the existing non-`.ru` Cursor account is not required
 
-> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. On September 12, the customer clarified that the long-standing email and X-authenticated Grok identity must remain unchanged; changing the address is not an acceptable resolution. No supported remedy has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
+## Current requirement — September 12
+
+Preserve the long-standing email address, existing X-authenticated Grok identity and paid Heavy subscription. The customer does not accept an email-change workaround. A new matching personal Cursor account remains acceptable. [Read the requirement and Sent-verified support clarification](support-correction-20260911.html#legacy-email).
 
 ## Original framing
 
@@ -18,7 +22,7 @@ This correction supersedes any earlier statement that access must work specifica
 
 ## Resolution test
 
-Resolution requires a successful new-account or linking path using the paid identity, followed by live confirmation that Grok Bot access is available. A support assurance without a working product result is not sufficient.
+Resolution requires a successful new-account or linking path using the unchanged paid identity and legacy email, followed by live confirmation that Grok Bot access is available. A support assurance without a working product result is not sufficient.
 
 
 

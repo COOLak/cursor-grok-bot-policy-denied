@@ -1,5 +1,7 @@
 # Neutral preservation of first-party Grok Bot terms
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 Capture date: **2026-09-05 UTC**
 
 The Anthropic billing-incident approach preserved material first-party claims in neutral, time-stamped archives. This incident now applies the same evidentiary function to the public Grok Bot eligibility and linking terms that bear directly on the unresolved denial.

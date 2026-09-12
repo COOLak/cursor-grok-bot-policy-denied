@@ -1,5 +1,7 @@
 # Correction: the existing non-`.ru` Cursor account is not required
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Original framing
 
 Early escalation described the goal as linking the paid X/xAI identity to an existing Cursor account whose email address did not match the X identity.

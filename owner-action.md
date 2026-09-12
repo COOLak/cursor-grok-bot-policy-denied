@@ -1,5 +1,7 @@
 # Technical owner action packet
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Owner-routing request
 
 Assign one human owner who can inspect Cursor's Grok Bot authentication, account eligibility, permanent-link registry, and xAI entitlement handoff. A support router or billing generalist cannot resolve the unexplained `policy_denied` decision.

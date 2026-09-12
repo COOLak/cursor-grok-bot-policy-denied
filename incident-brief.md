@@ -1,5 +1,7 @@
 # Public incident brief
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Core issue
 
 A paying SuperGrok Heavy subscriber reaches and approves Cursor's authorization request through X/xAI, but Cursor's callback returns `policy_denied` and Grok Bot displays **“Access blocked, please contact support.”** Cursor says the SuperGrok and Cursor emails must match and that successful links are permanent. A new personal Cursor account using the matching `.ru` address is acceptable to the customer, yet that matching path remains blocked.

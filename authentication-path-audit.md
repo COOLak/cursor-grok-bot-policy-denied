@@ -1,5 +1,7 @@
 # Grok Bot authentication-path audit
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 ## Result
 
 The observed failure occurs **after** the customer starts from Cursor's Grok Bot sign-in surface and successfully reaches the X/xAI authorization stage. The return to Cursor carries `policy_denied`, and the public Grok Bot page then displays **“Access blocked, please contact support.”**

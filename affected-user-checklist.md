@@ -1,5 +1,7 @@
 # Affected-user evidence checklist
 
+> **September 11 support correction:** Cursor now says different emails can link and attributes this case to a .ru domain restriction. No fix or X-sign-in email-change procedure has been verified. [Read the correction and September 12 follow-up](support-correction-20260911.html). Earlier statements and downloadable packets are historical snapshots.
+
 Use this checklist if the same Grok Bot / SuperGrok flow fails for you. Share aggregates and redacted screenshots publicly; keep account, session, and payment identifiers private.
 
 ## Record the plan and route

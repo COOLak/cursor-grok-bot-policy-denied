@@ -12,7 +12,7 @@
 6. **Visible failure** — Grok Bot displays **“Access blocked, please contact support.”**
 7. **Requested diagnostics** — screenshots, plan context, identity explanation, proxy/VPN checks, and retries are supplied.
 8. **Unsuccessful remediation** — a Cursor-side settings refresh does not change the result.
-9. **Account-model constraint** — Cursor support states that emails must match and successful links are permanent.
+9. **Account-model constraint and correction** — Cursor first states that emails must match and successful links are permanent, then reverses the email requirement and attributes this case to a `.ru` domain restriction.
 10. **Published linking terms** — Cursor's public guide confirms individual Heavy eligibility, a one-Cursor-account usage grant, no paid Cursor-plan prerequisite, permanence, and support routing, but publishes no same-email or `.ru`-domain restriction.
 11. **Corrected target requirement** — the customer confirms that a new matching-`.ru` personal Cursor account is acceptable.
 12. **Ownership loop** — xAI routes the issue to Cursor; Cursor automation closes the transferred case as a duplicate.
@@ -33,7 +33,7 @@ It records Cursor's requested diagnostics, settings-refresh claim, same-email re
 
 ## What remains unproven
 
-- That `.ru` is the actual decision trigger.
+- That the case-specific `.ru` attribution is a universal decision rule or reveals the exact backend implementation.
 - Whether another account-link record exists.
 - Which company or shared service made the denial decision.
 - Whether the rule is intentional, erroneous, or misapplied.

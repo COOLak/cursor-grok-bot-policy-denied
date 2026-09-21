@@ -32,7 +32,7 @@ It is withheld because redacting only the address while preserving every other p
 
 **Custody:** authenticated private Gmail thread retained by the customer.
 
-The correspondence establishes the requests for diagnostics, Cursor's settings refresh, the same-email requirement, permanent-link warning, technical-team routing, corrected target-account requirement, and the absence of a working remedy as of the last update.
+The correspondence establishes the requests for diagnostics, Cursor's settings refresh, the earlier same-email requirement and later reversal, the permanent-link warning, Cursor's case-specific `.ru` attribution, technical-team routing, corrected target-account requirement, and the absence of a working remedy as of the last update.
 
 Public files paraphrase the relevant statements. Raw headers, message IDs, addresses, tracking pixels, and full message bodies are excluded.
 
@@ -81,7 +81,7 @@ The guide does not publish a same-email requirement or a `.ru`-domain exclusion.
 
 ## Central inference boundary
 
-The matching `.ru` address being the actual trigger for `policy_denied` is an evidence-based inference, not a confirmed vendor finding. Cursor is being asked to confirm or refute it and identify the real backend rule.
+Cursor support has attributed this case's `policy_denied` result to the matching `.ru` domain, so the case-specific attribution is vendor-stated rather than merely customer-inferred. The exact backend rule, scope, and whether the attribution is universal remain unproven; Cursor is being asked to identify the real policy and provide a supported remedy.
 
 
 ## E-10 — September 9 phone password-signup screenshot

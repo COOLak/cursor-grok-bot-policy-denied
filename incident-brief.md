@@ -4,7 +4,7 @@
 
 ## Core issue
 
-A paying SuperGrok Heavy subscriber reaches and approves Cursor's authorization request through X/xAI, but Cursor's callback returns `policy_denied` and Grok Bot displays **“Access blocked, please contact support.”** Cursor says the SuperGrok and Cursor emails must match and that successful links are permanent. A new personal Cursor account using the matching `.ru` address is acceptable to the customer, yet that matching path remains blocked.
+A paying SuperGrok Heavy subscriber reaches and approves Cursor's authorization request through X/xAI, but Cursor's callback returns `policy_denied` and Grok Bot displays **“Access blocked, please contact support.”** Earlier Cursor support said the SuperGrok and Cursor emails must match and that successful links are permanent; on September 11, Cursor reversed the email requirement and attributed this case to a `.ru` domain restriction. A new personal Cursor account using the matching `.ru` address is acceptable to the customer, yet that matching path remains blocked.
 
 ## Why it matters
 
@@ -27,9 +27,9 @@ A paying SuperGrok Heavy subscriber reaches and approves Cursor's authorization 
 
 ## Confirmed versus inferred
 
-Confirmed: the paid plan is advertised as including Grok Bot; X authorization was approved; Cursor returned `policy_denied`; the visible page showed the access-blocked message; Cursor stated the same-email and permanent-link requirements; the matching new-account route remains unavailable.
+Confirmed: the paid plan is advertised as including Grok Bot; X authorization was approved; Cursor returned `policy_denied`; the visible page showed the access-blocked message; Cursor first stated and later reversed the same-email requirement, while retaining the permanent-link warning; Cursor support attributed this case to a `.ru` domain restriction; the matching new-account route remains unavailable.
 
-Inferred, not vendor-confirmed: the `.ru` email domain is the policy trigger. The underlying cause could instead be another eligibility, risk, geolocation, linking, or account-state rule.
+Still unproven: the exact backend policy and whether the case-specific `.ru` attribution is a universal rule. The underlying implementation, scope, and any additional eligibility, risk, geolocation, linking, or account-state factors remain undisclosed.
 
 ## Current public framing
 

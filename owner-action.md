@@ -10,7 +10,7 @@ Assign one human owner who can inspect Cursor's Grok Bot authentication, account
 
 - Cursor collected screenshots, plan context, account details, and proxy/VPN checks.
 - Cursor reported a backend-settings refresh; the retry still failed.
-- Cursor stated that the SuperGrok and Cursor emails must match and that a successful link cannot be moved.
+- Cursor first stated that the SuperGrok and Cursor emails must match and that a successful link cannot be moved; it later reversed the email requirement and attributed this case to a `.ru` domain restriction.
 - Cursor's public linking guide confirms individual Heavy eligibility, a usage grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but does not publish the privately stated same-email rule or a `.ru`-domain exclusion.
 - Cursor later forwarded the matter to the Grok Bot technical team without a named owner, finding, remedy, or ETA.
 - xAI routed the issue back to Cursor.
@@ -40,7 +40,7 @@ Assign one human owner who can inspect Cursor's Grok Bot authentication, account
 | Risk/compliance controls | State whether domain, geography, sanctions controls, abuse scoring, or another policy intentionally blocks the path. |
 | Error telemetry | Preserve the failed authorization decisions and correlate them with the customer's private support evidence. |
 | Support tooling | Make the backend reason and supported remedy visible to the assigned human owner instead of creating a duplicate loop. |
-| Public-policy documentation | Reconcile the privately stated same-email rule and observed denial with the public linking guide, including any unpublished domain, region, or eligibility restriction. |
+| Public-policy documentation | Reconcile the earlier same-email rule, later `.ru` attribution, and observed denial with the public linking guide, including any unpublished domain, region, or eligibility restriction. |
 | Billing remedy | If the benefit is unavailable by policy, identify the responsible vendor and the refund, service-credit, or equivalent remedy. |
 
 ## Minimum useful reply

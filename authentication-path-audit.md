@@ -20,7 +20,7 @@ The observed failure occurs **after** the customer starts from Cursor's Grok Bot
 
 ## Central boundary
 
-The `.ru` email-domain trigger is a customer inference based on the repeated failure and support discussion. Cursor has not confirmed the precise backend policy. Its public linking guide does not publish the privately stated same-email requirement or a `.ru`-domain exclusion. That absence does not prove no internal restriction exists. OAuth state, authorization-session values, complete account addresses, cookies, tokens, IP data, and unredacted screenshots are withheld.
+Cursor support has attributed this case to a `.ru` email-domain restriction, so the case-specific attribution is vendor-stated rather than merely customer-inferred. The precise backend policy, scope, and whether the restriction is universal remain unproven. Its public linking guide does not publish the earlier same-email requirement or a `.ru`-domain exclusion. That absence does not prove no internal restriction exists. OAuth state, authorization-session values, complete account addresses, cookies, tokens, IP data, and unredacted screenshots are withheld.
 
 ## Required vendor record
 
@@ -29,4 +29,4 @@ Cursor and xAI can resolve the remaining uncertainty by naming the technical own
 
 ## September 9 signup evidence and route correction
 
-The customer reports never having had a Cursor account under the matching .ru address. A new phone password-signup attempt displayed “Create a Grok Bot account” and “Access blocked, please contact support.” The supplied route redirects to the bot callback: this is not proof of a separate ordinary Cursor signup failure. The .ru trigger is still unconfirmed. [Read the new evidence, original checksum and limitations](mobile-signup-20260909.md).
+The customer reports never having had a Cursor account under the matching .ru address. A new phone password-signup attempt displayed “Create a Grok Bot account” and “Access blocked, please contact support.” The supplied route redirects to the bot callback: this is not proof of a separate ordinary Cursor signup failure. The case-specific `.ru` attribution is recorded from Cursor support, but the exact rule and universal scope remain unconfirmed. [Read the new evidence, original checksum and limitations](mobile-signup-20260909.md).

@@ -8,7 +8,7 @@
 
 ## The story in one paragraph
 
-A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization request through the X/xAI identity provider, but Cursor's callback returns `policy_denied` and Grok Bot displays “Access blocked, please contact support.” Cursor says the SuperGrok and Cursor emails must match and that links are permanent. The subscriber is willing to create the required new personal Cursor account using the matching `.ru` address, but that path remains blocked. xAI routes support responsibility to Cursor; Cursor closed the transferred request as a duplicate of the original unresolved case. No vendor has identified the precise backend rule, supplied a working path, or documented a billing remedy.
+A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization request through the X/xAI identity provider, but Cursor's callback returns `policy_denied` and Grok Bot displays “Access blocked, please contact support.” Cursor first said the SuperGrok and Cursor emails must match and that links are permanent, then reversed the email requirement and attributed this case to a `.ru` domain restriction. The subscriber is willing to create the required new personal Cursor account using the matching `.ru` address, but that path remains blocked. xAI routes support responsibility to Cursor; Cursor closed the transferred request as a duplicate of the original unresolved case. No vendor has identified the precise backend rule, supplied a working path, or documented a billing remedy.
 
 ## Confirmed facts
 
@@ -19,7 +19,7 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 - Cursor's callback returned `policy_denied`.
 - The visible Grok Bot page displayed “Access blocked, please contact support.”
 - The failure persisted after fresh sessions, ordinary VPN/proxy checks, and a Cursor-side settings refresh.
-- Cursor said the SuperGrok and Cursor emails must match and that successful links cannot be moved.
+- Cursor first said the SuperGrok and Cursor emails must match and that successful links cannot be moved, then reversed the email requirement and attributed this case to a `.ru` domain restriction.
 - A new matching-`.ru` personal Cursor account is acceptable to the subscriber.
 - xAI told the subscriber that Cursor owns Grok Bot support.
 - Cursor's automated assistant closed the transferred request as a duplicate of the still-unresolved original case.
@@ -27,11 +27,11 @@ A paying SuperGrok Heavy subscriber can reach and approve Cursor's authorization
 
 ## Not yet confirmed
 
-- Whether `.ru` is the actual backend policy trigger.
+- The exact backend rule and whether Cursor's case-specific `.ru` attribution is a universal policy.
 - Whether the paid identity has any pre-existing permanent Cursor link.
 - Whether the block originates in Cursor, xAI, or a shared risk/eligibility service.
 - Whether the block is intentional policy, a sanctions-control implementation, risk scoring, or an unintended account-system defect.
-- What unpublished rule, if any, supplements the public guides, which do not identify a same-email or `.ru`-domain restriction.
+- What unpublished rule, if any, supplements the public guides, which do not identify the earlier same-email or current `.ru`-domain restriction.
 
 ## Why this is newsworthy
 

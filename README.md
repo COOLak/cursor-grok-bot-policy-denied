@@ -40,7 +40,7 @@ The customer followed Cursor's **Get access with SuperGrok Heavy** path. X autho
 
 Cursor support later stated that the SuperGrok and Cursor account email addresses must match and that a successful link is permanent and cannot be moved. The customer does **not** require the benefit on the pre-existing non-`.ru` Cursor account: creation of a new personal Cursor account using the matching `.ru` address is acceptable. That matching-address path is the path that remains blocked.
 
-The evidence is therefore consistent with an unpublished domain-level eligibility rule or implementation block. Cursor has not confirmed that inference, identified the backend policy, supplied a working matching-address route, or provided a documented remedy.
+The evidence is therefore consistent with an unpublished domain-level eligibility rule or implementation block. Cursor's September 11 support response attributes this case to a `.ru` domain restriction, but has not disclosed the exact policy implementation, supplied a working matching-address route, or provided a documented remedy. That case-specific attribution is not proof of a universal `.ru` rule.
 
 ## Reproducible failure
 
@@ -61,7 +61,7 @@ The failure was reproduced after creating fresh authorization sessions, disablin
 - Cursor's automated support said the pre-existing Cursor account was an individual account, not a team or enterprise account.
 - Cursor asked for a retry without VPN/proxy interference, screenshots, subscription type, and the X/Grok account email. Those requests were satisfied.
 - A Cursor billing-support representative said backend settings had been refreshed and requested another retry. The same error returned.
-- Cursor then stated that the SuperGrok and Cursor emails must match and that successful links cannot be undone or moved.
+- Earlier Cursor support stated that the SuperGrok and Cursor emails must match and that successful links cannot be undone or moved; on September 11, Cursor reversed the email requirement and attributed this case to a `.ru` domain restriction.
 - A later Cursor representative forwarded the case to the Grok Bot technical team, but supplied no owner, backend finding, remedy, or ETA.
 - xAI support routed the issue back to Cursor, saying Cursor owns Grok Bot support.
 - Cursor's automated support immediately closed that transferred request as a duplicate of the original still-unresolved case.
@@ -87,7 +87,7 @@ This is not merely a generic login failure. It combines:
 - an advertised benefit of a paid AI subscription;
 - a successful identity-provider authorization followed by a partner-side `policy_denied` response;
 - an irreversible one-to-one linking rule;
-- an apparent account-domain restriction that has not been publicly documented or confirmed;
+- a case-specific account-domain restriction attributed by Cursor support but not publicly documented as a universal rule;
 - two vendors redirecting responsibility while the benefit remains unavailable; and
 - no safe, supported workaround for a customer willing to create the required matching account.
 
@@ -108,10 +108,10 @@ This correction was sent to Cursor in writing on September 3, 2026.
 
 ## Current status
 
-**Unresolved as of 2026-09-10 21:21 UTC.**
+**Unresolved as of 2026-09-12 10:53 UTC.**
 
 - Grok Bot access has not been verified working.
-- Cursor has not confirmed the precise backend reason for `policy_denied`.
+- Cursor has attributed this case to a `.ru` domain restriction, but has not disclosed the precise backend rule or its scope.
 - Cursor has not supplied a supported matching-`.ru` signup/linking path.
 - Cursor's public linking guide confirms individual SuperGrok Heavy eligibility, a grant without a paid Cursor-plan prerequisite, permanent linking, and support routing, but publishes no same-email requirement or `.ru`-domain exclusion.
 - No human technical owner or firm remediation ETA has been provided.
@@ -233,7 +233,7 @@ The public record preserves dates, roles, technical outcomes, corrections, vendo
 ## Accuracy and update policy
 
 - Confirmed observations are separated from inferences.
-- The `.ru` domain being the policy trigger remains an inference until Cursor confirms it.
+- Cursor has given a case-specific `.ru` domain attribution; no independent backend trace or universal policy has been published.
 - Support correspondence is paraphrased and stripped of identifiers.
 - Material corrections are preserved rather than silently rewritten.
 - New evidence, vendor replies, public actions, and resolution tests will be appended with UTC timestamps.
